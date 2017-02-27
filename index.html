@@ -12,16 +12,50 @@
     </head>
     
     <body>
-        <nav class="navbar navbar-light" style="background-color: #e3f2fd;>
+        <!-- NavBar -->
+        <nav class="navbar navbar-inverse">
             <div class="container-fluid">
-                <ul class="nav nav-pills nav-justified">
-                    <li class="nav-item"> <a href=#>Home</a></li>
-                    <li class="nav-item"> <a href=#>About</a></li>
-                    <li class="nav-item"> <a href=#>Contact</a></li>
-                    <li class="nav-item"> <a href=#>Help</a></li>
-                </ul>
+
+                <!-- Logo -->
+                <div class="navbar-header">
+                    <a href="#" class="navbar-brand">OnePunMan</a>
+                </div>
+
+
+
+                <!-- Menu -->
+                <div>
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="index.html">Home</a></li>
+                        <li><a href="pages/about.html">About</a></li>
+                        <li><a href="#">Contact</a></li>
+
+                        <!-- Dropdown Menu -->
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More... <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                 <li><a href="#">Cool Stuff</a></li>
+                                 <li><a href="#">Resume</a></li>
+                                 <li><a href="#">Website</a></li>
+                                 <li><a href="#">Puns!</a></li>
+                            </ul>
+                        </li>
+
+
+                    </ul>
+
+                    <!-- Right align -->
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#">Logout</a></li>
+                    </ul>
+                </div>
+
             </div>
         </nav>
+        
+        
+        
+        
         <div class="one">
             <div class="jumbotron text-center">
                 <h1> Puns!</h1>
@@ -38,7 +72,7 @@
         <h3> 5."What do you call a good program? An .execellent program." <span class="label label-info">COMP SCI</span></h3>
         <h3> 6."Take Note of the accidentals in this section, it's quite tricky." <span class="label label-warning">MUSIC</span></h3>
         <h3> 7."I have to be Onix with you, I can't Pika-ture life without Chu." <span class="label label-default">OTHER x3</span></h3>
-        <h3> 8."Teach me trig, sin(pi)!" <span class="label label-primary">MATH</span></h3>
+        <h3> 8."Teach me trig, sin(π)!" <span class="label label-primary">MATH</span></h3>
         <h3> 9."I have Terable news, my computer Ram out of memory." <span class="label label-info">COMP SCI x2</span></h3>
         <h3> 10."The chem test was brutal. The teacher showed absolutely no Enthalpy." <span class="label label-danger">CHEM</span></h3>
         <h3> 11."Your balance has been Reduced due to the Charges placed on your account." (CHEM)</h3>
