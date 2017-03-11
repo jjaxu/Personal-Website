@@ -7,13 +7,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel=stylesheet type="text/css" href="options.css"/>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="shortcut icon" type="image/png" href="favicon.ico">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+        <script src="scripts/script.js"></script>
         
     </head> 
     
-    <body>
+    <body id="main">
         <!-- NavBar -->
         <nav class="navbar navbar-inverse">
             <div class="container-fluid">
@@ -27,16 +28,16 @@
                 <div>
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="index.html">Home</a></li>
-                        <li><a href="pages/about.html">About</a></li>
+                        <li><a href="#">About</a></li>
                         <li><a href="#">Contact</a></li>
 
                         <!-- Dropdown Menu -->
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">More... <span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                 <li><a href="#">Cool Stuff</a></li>
-                                 <li><a href="#">Resume</a></li>
-                                 <li><a href="#">Website</a></li>
+                                 <li><a href="#">Projects</a></li>
+                                 <li><a href="#">Videos</a></li>
+                                 <li><a href="#">Memes</a></li>
                                  <li><a href="pages/puns.html">Puns!</a></li>
                             </ul>
                         </li>
@@ -53,9 +54,9 @@
 
        
         <div class="jumbotron text-center no-padding">
-            <h1 id="name">Jackie Xu</h1>
+            <h1 id="name" style="display:none">Jackie Xu</h1>
                 
-            <div class="row">
+            <div class="row" style="display:none" id="bar">
                 <div class="col-xs-6 col-sm-3">
                     <button class="about" onclick=" window.open('https://www.facebook.com/Jack.ie.xu.pi','_blank')">Facebook</button>
                 </div>
@@ -75,7 +76,7 @@
             </div>
                 
                 
-            <h2 id="title"> 
+            <h2 id="title" style="display:none"> 
                 <font face="Verdana">
                     Hi there! My name is Jackie, I am a programmer, mathematician and I really love puns!<br>
                     My website contains lot of interesting stuff about me, my experiences and projects.<br>
@@ -84,7 +85,7 @@
                 </font>
             </h2>
                 
-            <div class="row">
+            <div class="row" id="pics" style="display:none">
                 <div class="col-md-4 no-padding" style="background-color: #99CCFF">
                     <img src="images/me2.jpg" class="img-rounded img-responsive">
                 </div>
@@ -97,6 +98,5 @@
             </div>
         </div>         
                                                                                                                  
-   <!-- <script src="scripts/script.js"></script> -->
     </body>
 </html>
