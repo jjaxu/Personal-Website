@@ -7,49 +7,18 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script>
+            $(function(){
+                $("#navbar_template").load("/components/navbar.html"); 
+            });
+    </script>
 </head>
 <body>
     
     <!-- NavBar -->
-    <nav class="navbar navbar-inverse">
-        <div class="container-fluid">
-            
-            <!-- Logo -->
-            <div class="navbar-header">
-                <a href="#" class="navbar-brand">OnePunMan</a>
-            </div>
-            
-            
-            
-            <!-- Menu -->
-            <div>
-                <ul class="nav navbar-nav">
-                    <li><a href="../index.html">Home</a></li>
-                    <li class="active"><a href="about.html">About</a></li>
-                    <li><a href="#">Contact</a></li>
-                    
-                    <!-- Dropdown Menu -->
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">More... <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                             <li><a href="#">Cool Stuff</a></li>
-                             <li><a href="#">Resume</a></li>
-                             <li><a href="#">Website</a></li>
-                             <li><a href="#">Puns!</a></li>
-                        </ul>
-                    </li>              
-                </ul>
-                
-                <!-- Right align -->
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#">Logout</a></li>
-                </ul>
-            </div>
-        
-        </div>
-    </nav>
-    
-    
+    <div id="navbar_template"></div>
+
+   
     
     <!-- Types of Containers: xs, sm, md, lg-->
     <!-- container: fixed width-->

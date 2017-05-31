@@ -6,7 +6,7 @@ $(document).ready(function(){
 
     var id;
     var clr;
-
+    
     $('.about').on('mouseover', function() {
         id = $(this).attr('id');
 
@@ -31,10 +31,6 @@ $(document).ready(function(){
             {color: 'black',
             fontWeight:'normal'
         });
-    });
-
-    $('.inactive').on('click',function() {
-        alert("Oops! This page is still under development");
     });
 
 });

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
     <head>
         <title> Welcome to my website! </title>
         <meta charset="utf-8">
@@ -10,48 +9,16 @@
         <link rel="shortcut icon" type="image/png" href="favicon.png">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-
+        <script>
+            $(function(){
+                $("#navbar_template").load("/components/navbar.html"); 
+            });
+        </script>
     </head>
 
     <body id="main">
         <!-- NavBar -->
-        <nav class="navbar navbar-inverse">
-            <div class="container-fluid">
-
-                <!-- Logo -->
-                <div class="navbar-header">
-                    <a href="index.html" class="navbar-brand">OnePunMan</a>
-                </div>
-
-                <!-- Menu -->
-                <div>
-                    <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home</a></li>
-                        <li><a class="inactive" href="#">About</a></li>
-                        <li><a class="inactive" href="#">Experience</a></li>
-                        <li><a class="inactive" href="#">Study Notes</a></li>
-
-                        <!-- Dropdown Menu -->
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More... <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                 <li><a class="inactive" href="#">Projects</a></li>
-                                 <li><a class="inactive" href="#">Videos</a></li>
-                                 <li><a class="inactive" href="#">Memes</a></li>
-                                 <li><a href="pages/puns.html">Puns!</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-
-                    <!-- Right align -->
-                    <!-- <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#">Logout</a></li>
-                    </ul> -->
-                </div>
-
-            </div>
-        </nav>
+        <div id="navbar_template"></div>
 
         <div class="jumbotron text-center no-padding">
             <h1 id="name" style="display:none">Jackie Xu</h1>
