@@ -3,7 +3,7 @@
 
 html {
     background-image: url("/images/background.jpg");
-    background-position: fixed;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     overflow-y: scroll;
@@ -32,6 +32,10 @@ p {
     margin-bottom: 1rem;
 }
 
+a {color:white;}      /* unvisited link */
+a:visited {color:white;}  /* visited link */
+a:hover {opacity: 0.6;}  /* mouse over link */
+a:active {color:blue;}  /* selected link */
 
 .navbar-inverse .navbar-brand {
     color: white;
@@ -58,4 +62,19 @@ p {
 
 .jumbotron .lead {
     font-size: 32px;
+}
+
+@media (max-width: 992px) {
+    .jumbotron h1 {
+        font-size: 72px;
+    }
+}
+
+@media (max-width: 768px) {
+    .jumbotron h1 {
+        font-size: 40px;
+    }
+    .jumbotron .lead {
+        font-size: 20px;
+    }
 }
