@@ -4,67 +4,72 @@
         <title> Welcome to my website! </title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel=stylesheet type="text/css" href="options.css"/>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link rel="shortcut icon" type="image/png" href="favicon.png">
+        <!--<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css"> -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="style.css">
+
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <script>
             $(function(){
-                $("#navbar_template").load("/components/navbar.html"); 
+                $("#navbar_template").load("/components/navbar.html");
             });
         </script>
     </head>
 
-    <body id="main">
+    <body>
         <!-- NavBar -->
         <div id="navbar_template"></div>
 
-        <div class="jumbotron text-center no-padding">
-            <h1 id="name" style="display:none">Jackie Xu</h1>
+        <div class="container-fluid text-center">
+            <div class="jumbotron">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1">
+                        <h1>Jackie Xu</h1>
+                        <p class="lead">
 
-            <h2 id="title" style="display:none">
-                <font face="Verdana">
-                    University of Waterloo - Computer Science Student
-                    <!--
-                    Hi there! My name is Jackie, I am a programmer, mathematician and I really love puns!<br>
-                    My website contains lot of interesting stuff about me, my experiences and projects.<br>
-                    (there's a section dedicated to puns!)<br>
-                    Feel free to check it out!<br> -->
-                </font>
-            </h2>
+                                University of Waterloo - Computer Science Student
+                                <!--
+                                Hi there! My name is Jackie, I am a programmer, mathematician and I really love puns!<br>
+                                My website contains lot of interesting stuff about me, my experiences and projects.<br>
+                                (there's a section dedicated to puns!)<br>
+                                Feel free to check it out!<br> -->
 
-
-            <div class="row" style="display:none" id="bar">
-                <div class="col-xs-6 col-sm-3">
-                    <button id="fb" class="about" onclick=" window.open('https://www.facebook.com/Jack.ie.xu.pi','_blank')">Facebook</button>
-                </div>
-
-                <div class="col-xs-6 col-sm-3">
-                    <button id="gh" class="about" onclick=" window.open('https://github.com/OnePunMan','_blank')">GitHub</button>
-                </div>
-
-                <div class="col-xs-6 col-sm-3">
-                    <button id="li" class="about" onclick=" window.open('https://www.linkedin.com/in/jackie-xu','_blank')">LinkedIn</button>
-                </div>
-
-                <div class="col-xs-6 col-sm-3">
-                    <button class="about" onclick="window.open('resume.pdf','_blank')">Resume</button>
-                </div>
-            </div>
-
-            <div class="row" id="pics" style="display:none">
-                <div class="col-md-4 no-padding" style="background-color: #99CCFF">
-                    <img src="images/me2.jpg" class="img-rounded img-responsive">
-                </div>
-                <div class="col-md-4 no-padding" style="background-color: #99CCFF">
-                    <img src="images/me3.jpg" class="img-rounded img-responsive">
-                </div>
-                <div class="col-md-4 no-padding" style="background-color: #99CCFF">
-                    <img src="images/me1.jpg" class="img-rounded img-responsive">
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
-        <script src="scripts/script.js"></script>
+        <!-- <script src="scripts/script.js"></script> -->
     </body>
 </html>
+
+
+<!-- <div class="row" style="display:none" id="bar">
+    <div class="col-xs-6 col-sm-3">
+        <button id="fb" class="about" onclick=" window.open('https://www.facebook.com/Jack.ie.xu.pi','_blank')">Facebook</button>
+    </div>
+
+    <div class="col-xs-6 col-sm-3">
+        <button id="gh" class="about" onclick=" window.open('https://github.com/OnePunMan','_blank')">GitHub</button>
+    </div>
+
+    <div class="col-xs-6 col-sm-3">
+        <button id="li" class="about" onclick=" window.open('https://www.linkedin.com/in/jackie-xu','_blank')">LinkedIn</button>
+    </div>
+
+    <div class="col-xs-6 col-sm-3">
+        <button class="about" onclick="window.open('resume.pdf','_blank')">Resume</button>
+    </div>
+</div>
+<div class="row" id="pics" style="display:none">
+    <div class="col-md-4 no-padding" style="background-color: #99CCFF">
+        <img src="images/me2.jpg" class="img-rounded img-responsive">
+    </div>
+    <div class="col-md-4 no-padding" style="background-color: #99CCFF">
+        <img src="images/me3.jpg" class="img-rounded img-responsive">
+    </div>
+    <div class="col-md-4 no-padding" style="background-color: #99CCFF">
+        <img src="images/me1.jpg" class="img-rounded img-responsive">
+    </div>
+</div> -->

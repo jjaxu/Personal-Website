@@ -1,12 +1,10 @@
 $(document).ready(function(){
-    $("#name").fadeIn(2000);
-    $("#title").fadeIn(2000);
-    $("#bar").fadeIn(2000);
-    $("#pics").fadeIn(2000);
+    $("body").fadeIn(1000);
 
     var id;
     var clr;
-    
+
+    /*
     $('.about').on('mouseover', function() {
         id = $(this).attr('id');
 
@@ -32,6 +30,7 @@ $(document).ready(function(){
             fontWeight:'normal'
         });
     });
+    */
 
 });
 

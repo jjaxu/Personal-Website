@@ -7,23 +7,26 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/style.css">
     <script>
             $(function(){
-                $("#navbar_template").load("/components/navbar.html"); 
+                $("#navbar_template").load("/components/navbar.html");
             });
     </script>
 </head>
 <body>
-    
+
     <!-- NavBar -->
     <div id="navbar_template"></div>
 
-   
-    
+
+
     <!-- Types of Containers: xs, sm, md, lg-->
     <!-- container: fixed width-->
     <!-- container-fluid: dynamic width-->
-    
+
     <div class="container-fluid">
         <h1>3 Column layout</h1>
         <div class="row">
@@ -39,20 +42,20 @@
         </div>
     </div>
 
-    
-    
-    
-    
+
+
+
+
     <!-- Highlighting -->
     <div class="container">
         <p>You can highlight words or <mark>text with mark</mark> tags.</p>
-        
+
         <!-- Quotes -->
         <blockquote>
             <p>Just beacause it looks fancy, it doesn't mean it's good.</p>
             <footer>Jackie</footer>
         </blockquote>
-        
+
         <!-- Lists -->
         <h4>Just a list of items</h4>
         <dl>
@@ -65,7 +68,7 @@
                 <dd>- Item 2</dd>
                 <dd>- Item 3</dd>
         </dl>
-        
+
         <!-- Code -->
         <p>Intructions for some random action, say <code>exit()</code> to quit.</p>
         <p>For multi line code, use pre tags</p>
@@ -78,24 +81,24 @@ int absolute (int x) {
     }
 }
         </pre>
-        
+
         <!-- keyboard input -->
         <p> For keyboard inputs <kbd>Ctrl + Alt + Del</kbd></p>
-        
+
         <!-- Types of text -->
         <h4>Build in color classes</h4>
         <p class="text-muted">Text muted</p>
         <p class="text-success">Pass!</p>
         <p class="text-danger">DANGER!</p>
-        
+
         <p class="bg-success">Pass!</p>
         <p class="bg-danger">DANGER!</p>
-        
+
     </div>
-    
-    
-    
-    
+
+
+
+
     <!-- Tables -->
     <div class="container">
         <h2>Simple Table</h2>
@@ -124,10 +127,10 @@ int absolute (int x) {
                     <td>27</td>
                 </tr>
             </tbody>
-            
+
         </table>
-        
-        
+
+
         <h2>Condensed Table</h2>
         <table class="table table-condensed">
             <thead>
@@ -154,9 +157,9 @@ int absolute (int x) {
                     <td>27</td>
                 </tr>
             </tbody>
-            
+
         </table>
-        
+
         <h2>Striped Table</h2>
         <table class="table table-striped">
             <thead>
@@ -183,33 +186,33 @@ int absolute (int x) {
                     <td>27</td>
                 </tr>
             </tbody>
-            
+
         </table>
     </div>
-    
-    
-    
-    
+
+
+
+
     <!-- Images and Video -->
     <div>
         <img src="Baby%20Jackie.jpg" class="img-rounded" width="230" height="230">
         <img src="Baby%20Jackie.jpg" class="img-circle" width="230" height="230">
-        
+
         <!-- Auto-sizing images -->
         <img src="ab.jpg" class="img-responsive">
         <img src="ab.jpg">
-        
+
         <!--embed videos -->
         <div class="embed-responsive embed-responsive-16by9">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/7OYkWSW7u4k?list=FLgaT8oHBjAQWPKxdrzJ34Zw" frameborder="0" allowfullscreen></iframe>
         </div>
-        
+
     </div>
-    
-    
-    
-     
-    
-    
+
+
+
+
+
+
 </body>
 </html>
