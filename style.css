@@ -39,7 +39,7 @@ p {
 
 a {color:white;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
-a:hover {opacity: 0.6;}  /* mouse over link */
+a:hover {opacity: 1;}  /* mouse over link */
 a:active {color:blue;}  /* selected link */
 
 .navbar-inverse .navbar-brand {
@@ -125,4 +125,20 @@ a > .fa {
 
 a > .fa:hover {
   transform: scale(1.3);
+}
+
+.fa-facebook-official:hover {
+  color: #4267b2;
+}
+
+.fa-linkedin-square:hover {
+  color: #0077B5;
+}
+
+.fa-github:hover {
+  color: #5B297E;
+}
+
+.fa-user-circle:hover {
+  color: green;
 }
