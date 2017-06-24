@@ -3,38 +3,38 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 
 html {
-    background-image: url("/images/background.jpg");
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    overflow-y: scroll;
+  background-image: url("/images/background.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow-y: scroll;
 }
 
 
 body {
-    background: none;
-    line-height: 1.5;
-    color: #f5f5f5;
-    font-family: 'Source Sans Pro', sans-serif;
+  background: none;
+  line-height: 1.5;
+  color: #f5f5f5;
+  font-family: 'Source Sans Pro', sans-serif;
 
 }
 
 .black_text {
-    color: black;
+  color: black;
 }
 
 .container .jumbotron, .container-fluid .jumbotron {
-    padding-left: 0px;
-    padding-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Abril Fatface', cursive;
-    margin-top: 0;
+  font-family: 'Abril Fatface', cursive;
+  margin-top: 0;
 }
 
 p {
-    margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 a {color:white;}      /* unvisited link */
@@ -43,43 +43,70 @@ a:hover {opacity: 0.6;}  /* mouse over link */
 a:active {color:blue;}  /* selected link */
 
 .navbar-inverse .navbar-brand {
-    color: white;
+  color: white;
 }
 
 .navbar-inverse .navbar-brand:hover {
-    color: yellow;
+  color: yellow;
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
-    color: yellow;
+  color: yellow;
 }
 
 
 .jumbotron {
-    background: none;
-    margin-top: 75px;
-    margin-bottom: 75px;
+  background: none;
+  margin-top: 75px;
+  margin-bottom: 75px;
 }
 
 .jumbotron h1 {
-    font-size: 120px;
+  font-size: 120px;
 }
 
 .jumbotron .lead {
-    font-size: 32px;
+  font-size: 32px;
+}
+
+
+.first_slide, .second_slide, .third_slide {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 @media (max-width: 992px) {
-    .jumbotron h1 {
-        font-size: 72px;
-    }
+  .jumbotron h1 {
+    font-size: 72px;
+  }
 }
 
 @media (max-width: 768px) {
-    .jumbotron h1 {
-        font-size: 40px;
-    }
-    .jumbotron .lead {
-        font-size: 20px;
-    }
+  .jumbotron h1 {
+    font-size: 40px;
+  }
+  .jumbotron .lead {
+    font-size: 20px;
+  }
+}
+
+.pun_img {
+  margin-bottom: 1rem;
+}
+
+.pun_img img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  border-radius: 4px;
+}
+
+.pun_img:hover img {
+  -webkit-filter: grayscale(50%);
+  filter: grayscale(50%);
+}
+
+.pun_imgs {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
