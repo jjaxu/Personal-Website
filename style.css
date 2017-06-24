@@ -110,3 +110,11 @@ a:active {color:blue;}  /* selected link */
   margin-top: 3rem;
   margin-bottom: 3rem;
 }
+
+.site-footer span {
+  margin-right: 0.5em;
+}
+
+.site-footer {
+  margin-bottom: 3rem;
+}
