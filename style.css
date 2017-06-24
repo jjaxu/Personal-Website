@@ -118,3 +118,11 @@ a:active {color:blue;}  /* selected link */
 .site-footer {
   margin-bottom: 3rem;
 }
+
+a > .fa {
+  transition: all .2s ease-in-out;
+}
+
+a > .fa:hover {
+  transform: scale(1.3);
+}
