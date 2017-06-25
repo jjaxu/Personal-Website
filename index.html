@@ -4,19 +4,12 @@
   <title> Welcome to my website! </title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" type="image/png" href="favicon.png">
+  <link rel="shortcut icon" type="image/png" href="/favicon.png">
   <!-- <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css"> -->
   <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script>
-    $(function(){
-      $("#navbar_template").load("/components/navbar.html");
-    });
-    $(function(){
-      $("#unfinished_modal").load("/components/unfinished_modal.html");
-    });
-  </script>
+  <script src="/scripts/load_components.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <!-- <script src="scripts/script.js"></script> -->
 </head>
@@ -59,27 +52,10 @@
     </div>
   </div>
 
-  <!-- <div class="container">
-    <!-- Under development Modal -->
-    <div class="modal fade" id="myModal" role="dialog">
-      <div class="modal-dialog">
-        <!-- Modal content-->
-        <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">&times;</button>
-            <h4 class="modal-title black_text">Oops!</h4>
-          </div>
-          <div class="modal-body black_text">
-            <p class="lead">This page is still under development.</p>
-            <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  <!-- Oops! Modal -->
   <div id="unfinished_modal"></div>
 
-  <div class="container-fluid site-footer" style="z-index: 1;">
+  <!-- <div class="container-fluid site-footer" style="z-index: 1;">
     <div class="row">
       <div class="col-md-12">
         <p>
@@ -92,6 +68,6 @@
 
       </div>
     </div>
-  </div>
+  </div> -->
 </body>
 </html>
