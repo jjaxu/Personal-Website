@@ -13,8 +13,10 @@
     $(function(){
       $("#navbar_template").load("/components/navbar.html");
     });
+    $(function(){
+      $("#unfinished_modal").load("/components/unfinished_modal.html");
+    });
   </script>
-  <script src="https://use.fontawesome.com/c0a8e7ab04.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <!-- <script src="scripts/script.js"></script> -->
 </head>
@@ -57,7 +59,7 @@
     </div>
   </div>
 
-  <div class="container">
+  <!-- <div class="container">
     <!-- Under development Modal -->
     <div class="modal fade" id="myModal" role="dialog">
       <div class="modal-dialog">
@@ -75,8 +77,9 @@
       </div>
     </div>
   </div>
+  <div id="unfinished_modal"></div>
 
-  <div class="container-fluid site-footer">
+  <div class="container-fluid site-footer" style="z-index: 1;">
     <div class="row">
       <div class="col-md-12">
         <p>

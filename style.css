@@ -142,3 +142,10 @@ a > .fa:hover {
 .fa-user-circle:hover {
   color: green;
 }
+
+#navbar_template {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 1;
+}
