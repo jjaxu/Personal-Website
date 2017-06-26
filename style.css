@@ -39,7 +39,7 @@ p {
 
 a {color:white;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
-a:hover {opacity: 1;}  /* mouse over link */
+a:hover {color: yellow;}  /* mouse over link */
 a:active {color:blue;}  /* selected link */
 
 .navbar-inverse .navbar-brand {
@@ -148,4 +148,25 @@ a > .fa:hover {
   top: 0px;
   width: 100%;
   z-index: 1;
+}
+
+.panel-default {
+  background: transparent;
+  overflow-y: scroll;
+}
+
+.contact-info {
+  text-align: center;
+}
+
+.contact-info .fa {
+  margin-right: 4px;
+}
+
+.fa-envelope-o, .fa-mobile {
+  transition: all .5s ease-in-out;
+}
+
+.fa-envelope-o:hover, .fa-mobile:hover  {
+  transform: rotateY(180deg);
 }
