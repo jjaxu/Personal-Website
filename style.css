@@ -186,3 +186,13 @@ a > .fa:hover {
 .fa-envelope-o:hover, .fa-mobile:hover  {
   transform: rotateY(180deg);
 }
+
+.header {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.uw {
+  background: url('/images/uwbg.png');
+  background-size: contain;
+}
