@@ -37,10 +37,10 @@ p {
   margin-bottom: 1rem;
 }
 
-a {color:white;}      /* unvisited link */
-a:visited {color:white;}  /* visited link */
+a {color: white;}      /* unvisited link */
+a:visited {color: white;}  /* visited link */
 a:hover {color: yellow;}  /* mouse over link */
-a:active {color:blue;}  /* selected link */
+a:active {color: blue;}  /* selected link */
 
 .navbar-inverse .navbar-brand {
   color: white;
