@@ -196,3 +196,7 @@ a > .fa:hover {
   background: url('/images/uwbg.png');
   background-size: contain;
 }
+
+.spacing-bottom {
+  margin-bottom: 50px;
+}
