@@ -200,3 +200,11 @@ a > .fa:hover {
 .spacing-bottom {
   margin-bottom: 50px;
 }
+
+.film-bg {
+  background-image: url("/images/film_bg.jpg");
+}
+
+.light-margins {
+  margin-bottom: 16px;
+}
