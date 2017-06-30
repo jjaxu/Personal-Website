@@ -208,3 +208,7 @@ a > .fa:hover {
 .light-margins {
   margin-bottom: 16px;
 }
+
+.inactive {
+  opacity: 0.5;
+}
