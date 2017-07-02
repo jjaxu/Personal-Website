@@ -1,0 +1,25 @@
+{
+  "name": "mygithubpage",
+  "version": "1.0.0",
+  "description": "Jackie's Personal Website",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "fontawesome": "^4.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnePunMan/mygithubpage.git"
+  },
+  "author": "Jackie Yuan Jun Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnePunMan/mygithubpage/issues"
+  },
+  "homepage": "https://github.com/OnePunMan/mygithubpage#readme"
+}
