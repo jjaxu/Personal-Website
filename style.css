@@ -111,6 +111,16 @@ img {
   filter: grayscale(50%);
 }
 
+.hover-zoom {
+  -webkit-transition: all 0.4s ease;
+  border-radius: 4px;
+}
+
+.hover-zoom:hover {
+  transform: scale(1.03);
+  cursor: pointer;
+}
+
 .pun_imgs {
   margin-top: 3rem;
   margin-bottom: 3rem;
@@ -211,4 +221,21 @@ a > .fa:hover {
 
 .inactive {
   opacity: 0.5;
+}
+
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
