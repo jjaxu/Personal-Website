@@ -219,6 +219,10 @@ a > .fa:hover {
   margin-bottom: 16px;
 }
 
+.tiny-margins {
+  margin-top: 0.5em;
+}
+
 .inactive {
   opacity: 0.5;
 }
