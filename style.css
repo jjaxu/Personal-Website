@@ -271,3 +271,8 @@ a > .fa:hover {
 .overlay:hover .overlay-top {
   opacity: 1;
 }
+
+.anchor {
+  padding-top: 50px;
+  margin-top: -50px;
+}
