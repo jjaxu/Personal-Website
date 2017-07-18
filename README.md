@@ -8,6 +8,7 @@ This repo depends on 4 frameworks (for now):
 - Bootstrap
 - JQuery
 - Font Awesome
+- Lightbox
 - Google Fonts
 
 ### Setting up
