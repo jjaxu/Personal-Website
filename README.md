@@ -4,7 +4,7 @@ Welcome to the repository of my personal website! In this file, you will find so
 
 ### Dependencies
 
-This repo depends on 4 frameworks (for now):
+This repo depends on 5 frameworks (for now):
 - Bootstrap
 - JQuery
 - Font Awesome
