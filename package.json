@@ -6,7 +6,8 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "jquery": "^3.2.1",
-    "fontawesome": "^4.7.2"
+    "fontawesome": "^4.7.2",
+    "lightbox2": "^2.9.0"
   },
   "devDependencies": {},
   "scripts": {

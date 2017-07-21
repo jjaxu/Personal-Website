@@ -287,6 +287,10 @@ div.gallery:hover {
     border: 1px solid #777;
 }
 
+div.gallery {
+  width: 100%;
+}
+
 div.gallery img {
     width: 100%;
     height: auto;
@@ -295,4 +299,10 @@ div.gallery img {
 div.desc {
     padding: 4px;
     text-align: center;
+}
+
+.grid-align {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
 }
