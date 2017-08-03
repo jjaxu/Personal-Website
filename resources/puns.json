@@ -1,0 +1,19 @@
+{
+  "puns": [
+    {
+      "name": 1,
+      "content": "lol",
+      "category": "math"
+    },
+    {
+      "name": 2,
+      "content": "hello",
+      "category": "CS"
+    },
+    {
+      "name": 3,
+      "content": "test",
+      "category": "Science"
+    }
+  ]
+}
