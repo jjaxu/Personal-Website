@@ -1,0 +1,324 @@
+content;category
+"I Amp Currently studying for tomorrow's test on electricity.";PHYSICS
+"Circular motion is a tough unit, I'm not getting anywhere even after 3 hours of studying.";PHYSICS
+"I tried teaching my brother fractions today, he couldn't understand Half of what I was saying";MATH
+"I can't teach him Calculus yet, he has his Limits.";MATH
+"What do you call a good program? An .execellent program.";COMP
+"Take Note of the accidentals in this section, it's quite tricky.";MUSIC
+"Teach me trig, sin[pi]!";MATH
+"I have Terable news, my computer Ram out of memory.";COMP
+"The chem test was brutal. The teacher showed absolutely no Enthalpy.";CHEM
+"Your balance has been Reduced due to the Charges placed on your account.";CHEM
+"There are a Variety of theories on Meiosis.";BIO
+"You took Olive my good jokes about Vegetables!";OTHER
+"Don't you just want to pour 12M HCl on him so that he Dissociates for good?";CHEM
+"Too much programming has made me C-sick.";COMP
+"Being a neutrino is tough, they go through so much in life.";PHYSICS
+"How does data move around in a computer? With the Universal Serial Bus.";COMP
+"If you work with a partner in biology class, don't they become your Life partner?";BIO
+"Sometimes I just don't know what I'm thinking, my head has a mind of its own...";OTHER
+"What does a percussionist on drugs say?" "Where did my Bongo?";MUSIC
+"I went to a Halloween concert, but everyone Booed";OTHER
+"If you run out of oxygen while scuba diving, you're in Deep trouble";OTHER
+"I had a test on explosive chemicals today, Bombed it";CHEM
+"I love kinematics graphs, I'm really good a-t them.";PHYSICS
+"My strict chem teacher want me to make a molecular model, I just don't have the Balls to do it.";CHEM
+"I will be natural as ln as you are with me.";MATH
+"I want to drop my assignment on the ground so gravity can so do some of the Work for me.";PHYSICS
+"I hate decimals, they just don't Float in my boat.";COMP
+"What's the similarity between a$$holes and asymptotes?" "You will never be able to meet what they want.";MATH
+"If you can't play in the band, then Rest in Piece to you.";MUSIC
+"Now is the Right time to use Pythagorean Theorem.";MATH
+"Study vectors hard, or you will lose your sense of Direction.";MATH
+"How many questions did you get on the geography test for Canada?" "I got Nunavut.";GEO
+"How was your algebra test?" "I did x-ceptionally well.";MATH
+"Math homework is a good x-cercise, I don't know y but it works.";MATH
+"If I make physics jokes would you understand the Reference?";PHYSICS
+"How do chemists see in the dark?" "With Electro-lights (Electrolytes).";Electrolytes)."
+"Your music jokes are terrible, get Bach to me once you come up with something good.";MUSIC
+"Did you like the lesson on Fungi?" "I'm Lichen it so far.";BIO
+"We had a geometry test today, everybody got Rect.";MATH
+"Apparently there's some Korean band named f(x)." "So? No f(x) given.";x)."
+"I've mastered my logs, now they see me Rolling.";MATH
+"Your jokes are trash, Litterally.";OTHER
+"I was wondering how springs work, then it Hit me.";PHYSICS
+"Not trying to be Mean but you are just an Average student.";MATH
+"If you can't Reach me, try calling my Extension.";PHYSICS
+"A Pop quiz on Hooke's law Jumped on us today.";PHYSICS
+"We are supposed to know the properties of springs but all people think about is summer.";PHYSICS
+"Your bad trig jokes are really getting Repetitive.";MATH
+"I need to do well on trig to show my teacher that I am a Radian-t student.";MATH
+"On Halloween, everyone in my math class yelled 'Trig or Treat!'";MATH
+"The test was long, I didn't have enough time to fini...";OTHER
+"What was the Circumference? Idk, but it's Around 5 cm.";MATH
+"Put it the on the ground, let µ do all the work.";PHYSICS
+"I bombed my vectors test, but my mark still went up... by -5%.";MATH
+"You guys can't be in my team, you're Allies.";OTHER
+"I couldn't get the Right answer, so I Left it.";OTHER
+"What's a percussionist's favourite mathematical function? LogaRythms";MUSIC/MATH
+"I don't like guitar players, they are always so Picky.";MUSIC
+"The Pythagorean identity is ONEderful.";MATH
+"You're are playing too loud!" "No, I'm playing Piano.";MUSIC
+"What do you call the act of stealing saxophones?" "Grand theft Auto.";MUSIC
+"Help me make a nuclear reactor." "Sorry, no CANDU.";PHYSICS
+"We learned about cellular respiration today, I didn't know my phone needed to breathe...";BIO
+"What do you call an identity that can't be solved?" "A Tricknometric identity.";MATH
+"Trudeau is such a player, he has so many people in his Cabinet.";OTHER
+"How do ducks solve math problems?" "Using the Quackdratic formula.";MATH
+"What's the difference between a student and a camera?" "A camera can Focus.";OTHER
+"My marks are like mountains, high and stable.";OTHER
+"When prom comes, most people Prompose; as a programmer, I Prompt.";COMP
+"How do ducks hack computers? They Quack the code.";COMP
+"I love to try the Van de Graaff generator but I dont have the Balls to do it.";SCIENCE
+"What do you call someone who can't afford to go skating?" "A cheapSkate.";OTHER
+"Potato wedges are healthy because they are Wedgetables.";OTHER
+"What do you do when your hands are frozen?" "You let it go.";OTHER
+"Sushi is very SuFishticated.";OTHER
+"You were going Usainly fast!";OTHER
+"I was trying to teach my brother Trigonometric graphs but he Phased out on me.";MATH
+"We finally started learning Special Relativity, it's about Time!";PHYSICS
+"Why do you hate using Straws?" "Because they Suck.";OTHER
+"How was the Lamb chops?" "Meh.";Other
+"I like Linear systems, they are very Straight forward.";MATH
+"When two good students work together in math class, they become 2good.";MATH
+"What's an elephant's favourite instrument?" "A Trunkpet.";MUSIC
+"We had a lesson on Torque today, my friend seemed very Crossed.";PHYSICS
+"Why are drummers always the ones that keep time?" "Because they are UnBeatable.";MUSIC
+"What do you call a snail in space?" "A Gastronaut.";BIO
+"What do you call a snail not in space?" "A GastroNOT.";BIO
+"What does the Fox say?" "I don't care, no Fox given.";OTHER
+"People who like Sushi tend to get high because they often Seaweed.";OTHER
+"We're out of Beef, we are in a Steak of emergency!";OTHER
+"My favourite Disney character is RaPUNzel, we have so much in common.";OTHER
+"Oil prices are Rigged.";OTHER
+"If 420 is not high enough, try 420!";MATH
+"I have not made a joke in the past 3 days, I'm so so Pungry!";OTHER
+"You mixed the yarn labels! How Wool you know which one is which now?!";OTHER
+"I love trigonometry, it feels like Secant nature to me.";MATH
+"We are supposed to track themes on a story on exponential functions, I think Power Hierarchies is a good one.";MATH
+"I Nike your new shoes.";OTHER
+"Nice house!" "Thanks, don't Mansion it.";OTHER
+"I was writing deep messages, took a while to Sink in.";OTHER
+"The hockey players were fighting, no one knew what the Puck happened.";OTHER
+"Physics is magic! I can Poof it to you.";OTHER
+"I only carry small flashlights are they are Light weight.";OTHER
+"The Optics test Seemed easy, but it was just an Illusion.";PHYSICS
+"Pop exploding is an example of a Fizzical change.";PHYSICS
+"Let's play a Star Wars song! It's quite Dualble.";OTHER
+"What instrument does a pool player play?" "A cue stick guitar." "It took me a Billiard years to come up with this.";MUSIC/OTHER
+"What do musicians say when they mess up a note?" "Son of a Pitch.";MUSIC
+"What do you all a train that sneezes?" "Achoo-choo train.";OTHER
+"Bomb defusing is so intense, it comes down to the Wire every time.";OTHER
+"Tale me a good Story.";OTHER
+"He must be a math genius, his solutions are on Point.";MATH
+"Are we going to have a white Christmas this year?" "Hail no!";OTHER
+"My friend was Wine-ing after he got ticketed for drinking and driving, so I told him to just Beer with it.";OTHER
+"It's just a toy car, there's nothing to Ride home about.";OTHER
+"What can you conclude upon seeing someone crying in math class?" "They did too much Sobtraction.";MATH
+"Normally my teacher make our parents sign our tests, but he said 'You don't need to sign the Trig test cause it's already Sined.'";MATH
+"How did you get so many bruises just from shopping?!" "Because it's Boxing day!";OTHER
+"My school's bell was broken today, it was so quiet. I guess it deserves the No Bell Peace prize.";OTHER
+"Ahh I knew 'Frog' wasn't the right answer!" "Toad you so.";OTHER
+"Why do lumberjacks always seem annoyed?" "Because people Axe them too many questions.";OTHER
+"Oh no! The pendulum broke!" "Damp it!";PHYSICS
+"You made my friend disappear!!!" "I'm Sorcery about that.";OTHER
+"You should .com visit my website.";OTHER
+"I thought having 2 brains would be a good thing, now I'll have to think Twice on that.";
+"How do screws work? oh wait that's a reTorquerical question.";PHYSICS
+"Phrases used to kill time? 'Hang on a Second', 'Give me a Minute', 'Hour let you know soon' are good ones.";OTHER
+"Unit for measuring the speed of puns? 1 Pz [Punz] = 1 Pun / day.";OTHER
+"Sorry, broken scissors just won't Cut it for me.";OTHER
+"I never use my vacuum because it Sucks.";OTHER
+"I feel attractive being a lab advisor because when I enter the room, all the computers gets turned on.";OTHER
+"Why don't you like doing assignments online?" "Sorry, just not my Type.";OTHER
+"I went to shop for a boat today, it was on Sail!";OTHER
+"We learned about Abstract Data Types today, at the end our teacher asked us if we had any Queuestions";COMP
+"I'm pregnant..." "What?! You've got to be Kid-in-me!";OTHER
+"I'm so good at sleeping that I can do it with my eyes closed!";OTHER
+"How loud should I play this note? Forte decibels.";PHYSICS/MUSIC
+"Why do photons never notice me?" "They got no Time.";PHYSICS
+"In Einstein's world, the biggest question is: 2c or not 2c?";PHYSICS
+"I don't need to tell you how good these mics are, they speak for themselves!";OTHER
+"We got some positive feedback for your sound quality!" "How's that a good thing?!";OTHER
+"I love graphing, but for some people, graphing is where they draw the Line.";MATH
+"Some people that took physics just crashed and burned.";PHYSICS
+"Did you see the video on the new strand of bacteria they discovered? It's Spreading across the web!";BIO
+"I hate the floor function, it lets me Down every time.";MATH
+"I hate fixing windows, it's a Pane.";OTHER
+"I am the 'One Pun Man'.";OTHER
+"Pikachu is Grounded for electrocuting his friends.";OTHER
+"This brand of instant noodles is amazing, it will be Ramembered.";OTHER
+"Do not get close to the angry computer! It will Byte!";COMP
+"When my friend makes a pun on light - 'Eye see what you did there.'";OTHER
+"You watched 'Finding Nemo' already? I've been looking for it everywhere!";OTHER
+"Can I borrow you hammer?" "Sure, knock yourself out.";OTHER
+"That's not how you tie laces! I'll Shoe you how it's done.";OTHER
+"What do people learn in bio class?" "The endocrying system";BIO
+"I went to see this drama production on puns today, it was a play on words.";OTHER
+"How Ironic, I found a Washer in my Dryer.";OTHER
+"With great power, comes with great resPunsibility";OTHER
+"I feel so connected, and for once, it's not Wi-fi.";OTHER
+"I'm sorry! Please resPund to me!";OTHER
+"What's your favourite sport?" "Ping-Pun.";OTHER
+"My jokes and puns kill people, I guess they're too Pungent.";OTHER
+"Confusing physics question: A high speed boat is moving at sea at c, find it's colour.";PHYSICS
+"Physics Q&A: A student at rest sees his friend runs at 5m/s..." "If the student is resting, how can he see?!";PHYSICS
+"He said he would only ride the car for 5 minutes, but he got carried away.";OTHER
+"E = mc² is a weapon of Mass destruction.";PHYSICS
+"Mr.Schrödinger, how would you like it? Crispy or grilled?" "Why not both?";PHYSICS
+"Why do you drink so much like your dad?" "I guess it Rums in the family.";OTHER
+"Someone in Harry Potter that has lighting abilities? - Voltemort.";PHYSICS
+"I'm Fastenated by how race cars work.";OTHER
+"Now I know why I kill every math test, I have a Sharp calculator.";MATH
+"Why are photography test questions always out of 3?" "Because it's the rule of 3rds.";OTHER
+"What's your High score?" "420 points.";OTHER
+"The font you choose for memes has a big Impact on its outcome.";OTHER
+"Ahh tape doesn't work, I'll just Stick with glue.";OTHER
+"How do you calculate the net force on a ship?" "Mast times acceleration.";PHYSICS
+"After seeing my friend's new handsome hair style, I feel gel less.";OTHER
+"Fishes Sea the world differently.";OTHER
+"Asians are bad drivers - That's a Steereotype.";OTHER
+"My robot helped win the war, he deserves a Metal of Honour.";OTHER
+"Did you hear Bruno Mars's song Grenade?" "Yea, it Blows.";OTHER
+"What do you call those explained forces in non-inertial frames of references?" "Faketicious forces.";PHYSICS
+"Our country have stopped using coins, they said it's time for Change.";OTHER
+"Why is your whole family bald?" "InHairitance.";OTHER
+"What country do you find the most sheep in?" "Amehrica.";OTHER
+"What is the similarity between women and Pi?" "They both go on and on.";OTHER
+"There's no letter 'X' in Korean, they crossed it out.";OTHER
+"I failed my quiz on the alphabet, the only letter I got was F.";OTHER
+"My cheese disappeared so fast! I guess it's called Swift cheese for a reason.";OTHER
+"Whoa he told the truth for once, that was Honestpected.";OTHER
+"The happiest vegetable is the Ha-lapeno.";OTHER
+"I have a Limited edition Calculus textbook.";MATH
+"The face you make when you end up with the indeterminate form: 0_0";MATH
+"I can't find this limit, I hope l'Hôpital's rule will give us an Aid";MATH
+"No one made it into university, Accept for you.";OTHER
+"Until your child is born, whoever the father is will not be A parent.";OTHER
+"How does Iodine ask Oxygen out?" "Iodate you.";CHEM
+"When I tried to shop for a Ford online, it said 'Ford O Ford error, car not found'";OTHER
+"The last pun I will add to this list will me my grand Punalle.";OTHER
+"A bird that can't fly? For Rio??";OTHER
+"Back then when I was prepping for my exam, every day was violin-times day.";OTHER
+"Two statisticians tied at 1-1 in a game, I guess they broke even.";MATH
+"You can't just calculate the limit directly, you have to take on a different Approach.";MATH
+"IOnly use standard input and output.";COMP
+"Brain surgery is only done on someone who's every open minded.";OTHER
+"I wasn't here for music class today, were there any notes?" "Yes... A LOT.";MUSIC
+"Our calc class needs us because there's no Calculus without 'us'.";MATH
+"Programmers never get good marks cause they always get C or C+ on their tests.";COMP
+"Programmers' favourite food? C food.";COMP
+"I like working with glue because it always sticks to my plan.";OTHER
+"The problem with playing the oval is that you will always be flat.";MUSIC/MATH
+"I don't know what frequency she is screaming at but it Hertz my ears.";PHYSICS
+"I don't C the point of integrating.";MATH
+"When my friend was stuck on quadratic equations, I asked 'What seems to be the Parabolem here?'";MATH
+"I lost my DNA, it's now DNE.";BIO
+"What's a black board's favourite snack?" "Chalkolate.";OTHER
+"Where do cats eat?" "In the Catfeteria.";OTHER
+"My philosophy idea failed..." "It's ok, it's the thought that counts.";PHILOSOPHY
+"The most common choices on a biology multiple choice test are DNA.";BIO
+"While the most common choices on a math multiple choice test are DNE.";MATH
+"Protractors are always depressed because they can never find their other half.";MATH
+"Wanna help me make a nuke? I can't do it without U.";PHYSICS/CHEM
+"Did you how I managed to escape Iraq? Iran.";GEO
+"Would you like to take a sneak Peak at the upcoming test on optimization?";MATH
+"Our calculus teacher assigned all the homework to optimize our learning.";MATH
+"Find the acceleration of the car a(t) 2 seconds.";t)
+"Out of the 26 of you, only 3 made the cut: 'c', 'u' and 't'.";OTHER
+"Breaking News: Truck runs into glassware store.";OTHER
+"Name an extreme sport." "Optimization in calculus.";MATH
+"You know what doesn't make Cents? Pennies.";OTHER
+"Our school removed all the black boards, but the one bright side, we got new white boards instead.";OTHER
+"My hand-made rubber band gun sure comes in Handy.";OTHER
+"All my math tests are messy because there's Pi everywhere.";MATH
+"How did get that robot?" "I Bot it.";OTHER
+"If the English language could stop having sew many words that sound the same that wood be grate.";OTHER
+"I love lawyers, they Rule.";OTHER
+"I maybe have said goodPi, but I'll be back.";MATH
+"Duel monitors is a must for all Star Wars fans.";OTHER
+"Before music existed, no one thought the world would Bb.";MUSIC
+"How wast he movie Shrek?" "Meh, so so, mediogre.";OTHER
+"Mr.Boomerang we can't serve you right now, please come back later.";OTHER
+"My best physics student fell off a cliff, he had so much potential...";PHYSICS
+"At one point in time, I was addicted to my Calculus homework.";MATH
+"Weeds are growing uncontrollably in my year." "Bet you never sow that coming.";OTHER
+"These headphones are broken, I can't hear jack s**t.";OTHER
+"What's the name of that Pho place we ate at last time?" "Uhh... I Pho-got.";OTHER
+"Don't have an idea on the size of the library? Look at my panorama, you'll get the bigger picture.";OTHER
+"Seeing three crazy girls moving around in an elevator as they descend to the main floor is wrong on so many levels.";OTHER
+"Least environmental friendly fuel company? Esso, the combustion release so much Esso 2.";CHEM
+"The bright light blinded me, how eyeronic.";OTHER
+"Why do iPhone users never go to the doctor?" "Because an Apple a day keeps the doctor away.";OTHER
+"Dustin's name spelled without the 't' looks weird, Dusin it?";OTHER
+"I almost got shot!" "Pew, that was close.";OTHER
+"I bricked my Android phone when I tried to root it, it's a Nokia now.";OTHER
+"Which musical note is the most annoying?" "The one that keeps saying 'Pick Mi! Pick Mi!'";MUSIC
+"I can quickly teach you magnetism, it's ferroly simple.";PHYSICS
+"What do you call someone who's always energetic with puns?" "A Pungee jumper.";OTHER
+"Your runny nose snot my problem.";OTHER
+"Endless music is the best, I'd rate it 24/7.";OTHER
+"There's something wrong with my left hand, it doesn't seem right.";OTHER
+"Jokes about skeletons are so Humerus.";BIO
+"Units of acceleration for an osilating object? - Meters per secant squared.";MATH/PHYSICS
+"Your algebra skills is x-celellent, you should try out for the X Factor.";MATH
+"Dimonds are rare, so if you find any, seldom to me.";OTHER
+"I know why I always lose my best erasers, they leave no trace the last time I've seen them.";OTHER
+"Has anyone seen this horse?" "Neigh.";OTHER
+"A chemistry scholar got his pHDegree.";CHEM
+"The speed limit of the high way is 420 km/hr.";OTHER
+"You find Vectors hard? I find them very straight forward.";MATH
+"You copied my beat without my permission! That's plagiarhytm.";MUSIC
+"Cosine law has no ambiguous case, this is where it outSines the other laws.";MATH
+"Don't listen to Drake's music when driving, it's illegal to Drake and drive.";OTHER
+"Once a pun a time, Jackie was born.";OTHER
+"I searched up 'Finding Nemo' on Netflix, it said 'No results were found.'";OTHER
+"Unintended or Punintended? That is the question.";OTHER/SHAKESPEARE
+"Why can't a table stand on two legs?" "Because it's Uns-table.";OTHER
+"What if Einstein's theory of Relativity was wrong?" "It's ok, it's the thought that counts.";PHYSICS
+"Get thee to a nunnery! Sorry, no offence." "Nun taken.";SHAKESPEARE
+"What's a Horatio?" "1:9999";SHAKESPEARE
+"Hip hip...HORATIO!";SHAKESPEARE
+"Microwave foods are not safe for wok.";OTHER
+"Sorry, parallel lines don't meet our requirements.";MATH
+"What do you major in?" "Music.";MUSIC
+"Though the CCC be madness, yet there is method in ’t.";COMP-SCI/SHAKESPEARE
+"Ikea book shelves don't have instructions..." "Yea, they are pretty shelf explanatory.";OTHER
+"My friend is a cannibal, she likes eating raw men.";OTHER
+"Santa is here to give everyone drinks, HOH HOH HOH!";OTHER
+"I am Chinese and I am cheap, why? Because I'm made in China.";OTHER
+"The sin law lies, and lying is a sin in many religions.";OTHER
+"When your comp sci program does not work, it becomes comp sigh.";COMP-SCI
+"Black guys are the best magicians because they go poof after they become fathers.";OTHER
+"Word used to describe the frequency of puns? Apundance.";OTHER
+"We learned about the element iron today, it was ferroly simple.";CHEM
+"Butanal is a pain is the ass to name.";CHEM
+"We need a river of unlimited beer...R-OH R-OH R-OH your boat, gently down the stream.";CHEM
+"Unit for measuring the loudness of an electric guitar? Amps.";PHYSICS/MUSIC
+"I'm bringing beer to school, it's a quite a whisky move.";OTHER
+"You are using if statements?" "Yea, what else?";COMP
+"Alkane like a wrecking ball.";CHEM
+"I got a few matrix up my sleeves.";OTHER
+"I forgot how to name Esters...OATE I REMEMEBER!";CHEM
+"What's a dog's favourite instrument?" "A trom-bone.";MUSIC
+"Jackie of all trades, master of pun.";OTHER
+"How do you ask a statistician out?" "You datum.";MATH
+"Some chess pieces are always looked down upawn.";OTHER
+"My favourite Green Day song? 21 Puns.";MUSIC
+"The only things that are right on your test are the corners!";MATH
+"Learning about the 3rd dimension today in math really stood out to me.";MATH
+"Taste of Asia is a cruel place, there's public roasting everywhere.";OTHER
+"I showed my crew how to make the invisible suit many times. I thought I made myself clear but they still don't see what I did.";OTHER
+"What do you call an immigrant zombie?" "Flesh off the boat.";OTHER
+"Please don't shoot, I pun in peace.";OTHER
+"Why do athletes get cups?" "Because they are thirsty.";OTHER
+"What do you call a fake trophy?" "A trollphy.";OTHER
+"We missed the storm, it went right over our heads.";OTHER
+"What's so great about math commercials?" "Well the ADs are big pluses.";MATH
+"You and I should be together." "Yeah on a keyboard maybe.";OTHER
+"Upon hearing that the world is going to end the next day, people are running like there's no tomorrow.";OTHER
+"My dad left the cooler in our dorm... I guess our dorm just got a little cooler";OTHER
+"My friend skipped his lecture on Integrals, so I summed it up in one line for him";MATH
+"My friend fell off of a cliff!" "Oh, mg!";PHYSICS
+"Let's do a fundraiser for a new microphone, our voices must be heard.";OTHER
+"My friend subtracted his numbers in the wrong order, it makes a huge difference!";MATH

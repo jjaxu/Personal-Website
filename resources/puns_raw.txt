@@ -1,0 +1,375 @@
+﻿1."I Amp Currently studying for tomorrow's test on electricity." (PHYSICS x3)
+2."Circular motion is a tough unit, I'm not getting anywhere even after 3 hours of studying." (PHYSICS)
+3."I tried teaching my brother fractions today, he couldn't understand Half of what I was saying" (MATH)
+4."I can't teach him Calculus yet, he has his Limits." (MATH)
+5."What do you call a good program? An .execellent program." (COMP SCI)
+6."Take Note of the accidentals in this section, it's quite tricky." (MUSIC)
+7."I have to be Onix with you, I can't Pika-ture life without Chu." (OTHER x3)
+8."Teach me trig, sin[pi]!" (MATH)
+9."I have Terable news, my computer Ram out of memory." (COMP SCI x2)
+10."The chem test was brutal. The teacher showed absolutely no Enthalpy." (CHEM)
+11."Your balance has been Reduced due to the Charges placed on your account." (CHEM)
+12."There are a Variety of theories on Meiosis." (BIO)
+13."You took Olive my good jokes about Vegetables!" (OTHER)
+14."The function y = 1/x follows Schrödinger's law because at x=0, the function is at positive and negative infinity at the same time." (MATH/Physics)
+15."Don't you just want to pour 12M HCl on him so that he Dissociates for good?" (CHEM)
+16."Too much programming has made me C-sick." (COMP SCI)
+17."Being a neutrino is tough, they go through so much in life." (PHYSICS)
+18."How does data move around in a computer? With the Universal Serial Bus." (COMP SCI)
+19."If you work with a partner in biology class, don't they become your Life partner?" (BIO)
+20."I couldn't understand the question!" "Are you sure you didn't Ms.Reid the question?" (INSIDE JOKE BIO)
+21."Sometimes I just don't know what I'm thinking, my head has a mind of its own..." (OTHER)
+22."What does a percussionist on drugs say?" "Where did my Bongo?" (MUSIC)
+23."I went to a Halloween concert, but everyone Booed" (OTHER)
+24."If you run out of oxygen while scuba diving, you're in Deep trouble"(OTHER)
+25."I had a test on explosive chemicals today, Bombed it" (CHEM)
+26."I love kinematics graphs, I'm really good a-t them."(PHYSICS)
+27."My strict chem teacher want me to make a molecular model, I just don't have the Balls to do it." (CHEM)
+28."I will be natural as ln as you are with me." (MATH)
+29."I want to drop my assignment on the ground so gravity can so do some of the Work for me." (PHYSICS)
+30."I hate decimals, they just don't Float in my boat." (COMP SCI)
+31."What's the similarity between a$$holes and asymptotes?" "You will never be able to meet what they want."(MATH)
+32."If you can't play in the band, then Rest in Piece to you." (MUSIC x2)
+33."Now is the Right time to use Pythagorean Theorem."(MATH)
+34."Study vectors hard, or you will lose your sense of Direction."(MATH)
+35."How many questions did you get on the geography test for Canada?" "I got Nunavut." (GEO)
+36."How was your algebra test?" "I did x-ceptionally well." (MATH)
+37."Math homework is a good x-cercise, I don't know y but it works." (MATH)
+38."If I make physics jokes would you understand the Reference?" (PHYSICS)
+39."How do chemists see in the dark?" "With Electro-lights (Electrolytes)." (CHEM)
+40."Your music jokes are terrible, get Bach to me once you come up with something good." (MUSIC)
+41."Did you like the lesson on Fungi?" "I'm Lichen it so far." (BIO)
+42."We had a geometry test today, everybody got Rect." (MATH) 10/20/2015
+43."Apparently there's some Korean band named f(x)." "So? No f(x) given." (MATH) 10/20/2015
+44."I've mastered my logs, now they see me Rolling." (MATH) 10/20/2015
+45."Your jokes are trash, Litterally." (OTHER) 10/21/2015
+46."I was wondering how springs work, then it Hit me." (PHYSICS) 10/23/2015
+47."Not trying to be Mean but you are just an Average student." (MATH) 10/25/2015
+48."If you can't Reach me, try calling my Extension." (PHYSICS) 10/26/2015
+49."A Pop quiz on Hooke's law Jumped on us today." (PHYSICS) 10/26/2015
+50."We are supposed to know the properties of springs but all people think about is summer." (PHYSICS) 10/27/2015
+51."Your bad trig jokes are really getting Repetitive." (MATH) 10/27/2015
+52."I need to do well on trig to show my teacher that I am a Radian-t student." (MATH) 10/28/2015
+53."On Halloween, everyone in my math class yelled 'Trig or Treat!'" (MATH) 10/30/2015
+54."The test was long, I didn't have enough time to fini..." (OTHER) 10/30/2015
+55."What was the Circumference? Idk, but it's Around 5 cm." (MATH) 10/30/2015
+56."Put it the on the ground, let µ do all the work." (PHYSICS) 10/30/2015
+57."Everyone in bio should dress up as zombies for Halloween because Ms.Reid killed them all." (BIO INSIDE JOKE) 10/30/2015
+58."I bombed my vectors test, but my mark still went up... by -5%." (MATH) 11/4/2015
+59."You guys can't be in my team, you're Allies." (OTHER) 11/4/2015
+60."I couldn't get the Right answer, so I Left it." (OTHER) 11/4/2015
+61."What's a percussionist's favourite mathematical function? LogaRythms" (MUSIC/MATH) 11/5/2015
+62."I don't like guitar players, they are always so Picky." (MUSIC) 11/5/2015
+63."The Pythagorean identity is ONEderful." (MATH) 11/5/2015
+64."You're are playing too loud!" "No, I'm playing Piano." (MUSIC)11/6/2015
+65."What do you call the act of stealing saxophones?" "Grand theft Auto." (MUSIC) 11/6/2015
+66."Help me make a nuclear reactor." "Sorry, no CANDU." (PHYSICS) 11/8/2015
+67."We learned about cellular respiration today, I didn't know my phone needed to breathe..." (BIO) 11/9/2015
+68."What do you call an identity that can't be solved?" "A Tricknometric identity." (MATH) 11/10/2015
+69."Trudeau is such a player, he has so many people in his Cabinet." (OTHER) 11/10/2015
+70."Reid, ReWrite, Reidmember" (BIO INSIDE JOKE) 11/12/2015
+71."How do ducks solve math problems?" "Using the Quackdratic formula." (MATH) 11/12/2015
+72."What's the difference between a student and a camera?" "A camera can Focus." (OTHER) 11/13/2015
+73."My marks are like mountains, high and stable." (OTHER) 11/13/2015
+74."When prom comes, most people Prompose; as a programmer, I Prompt." (COMP SCI) 11/19/2015
+75."How do ducks hack computers? They Quack the code." (COMP SCI) 11/17/2015
+76."I love to try the Van de Graaff generator but I dont have the Balls to do it." (SCIENCE) 11/18/2015
+77."What do you call someone who can't afford to go skating?" "A cheapSkate." (OTHER) 11/19/2015
+78."Potato wedges are healthy because they are Wedgetables." (OTHER) 11/21/2015
+79."What do you do when your hands are frozen?" "You let it go." (OTHER) 11/21/2015
+80."When Ms.Reid tell us to read the bio textbook - Reidathon." (OTHER) 11/21/2015
+81."Sushi is very SuFishticated." (OTHER) 11/23/2015
+82."Why does Ms.Reid use a dart for presentations?" "Because she's a Prick." (OTHER) 11/24/2015
+83."You were going Usainly fast!" (OTHER) 11/25/2015
+84."I was trying to teach my brother Trigonometric graphs but he Phased out on me." (MATH) 11/25/2015
+85."We finally started learning Special Relativity, it's about Time!" (PHYSICS) 11/25/2015
+86."Why do you hate using Straws?" "Because they Suck." (OTHER) 11/26/2015
+87."How was the Lamb chops?" "Meh." (Other) 11/26/2015
+88."I like Linear systems, they are very Straight forward." (MATH) 11/29/2015
+89."You know those John Cena vids? I bet you did not Cena coming." (OTHER) 11/30/2015
+90."When two good students work together in math class, they become 2good." (MATH) 11/30/2015
+91."What's an elephant's favourite instrument?" "A Trunkpet." (MUSIC) 12/1/2015
+92."We had a lesson on Torque today, my friend seemed very Crossed." (PHYSICS) 12/1/2015
+93."Why are drummers always the ones that keep time?" "Because they are UnBeatable." (MUSIC) 12/1/2015
+94."What do you call a snail in space?" "A Gastronaut." (BIO) 12/2/2015
+95."What do you call a snail not in space?" "A GastroNOT." (BIO) 12/2/2015
+96."What does the Fox say?" "I don't care, no Fox given." (OTHER) 12/3/2015
+97."People who like Sushi tend to get high because they often Seaweed." (OTHER) 12/3/2015
+98."We're out of Beef, we are in a Steak of emergency!" (OTHER) 12/3/2015
+99."My favourite Disney character is RaPUNzel, we have so much in common." (OTHER) 12/3/2015
+100."Oil prices are Rigged." (OTHER) 12/3/2015
+101."If 420 is not high enough, try 420!" (MATH) 12/4/2015
+102."I have not made a joke in the past 3 days, I'm so so Pungry!" (OTHER) 12/8/2015
+103."My teacher talked a lot of bull today, I guess he was in a Crappy mood." (OTHER) 12/8/2015
+104."You mixed the yarn labels! How Wool you know which one is which now?!" (OTHER) 12/8/2015
+105."I love trigonometry, it feels like Secant nature to me." (MATH) 12/8/2015
+106."Bio class gives students cancer, too much Reidiation." (BIO INSIDE JOKE) 12/8/2015
+107."We are supposed to track themes on a story on exponential functions, I think Power Hierarchies is a good one." (MATH) 12/9/2015
+108."You are not a solution to my life, therefore I must Reject you." (MATH) 12/9/2015
+109."I Nike your new shoes." (OTHER) 12/10/2015
+110."Nice house!" "Thanks, don't Mansion it." (OTHER) 12/11/2015
+111."I was writing deep messages, took a while to Sink in." (OTHER) 12/11/2015
+112."The hockey players were fighting, no one knew what the Puck happened." (OTHER) 12/12/2015
+113."Physics is magic! I can Poof it to you." (OTHER) 12/14/2015
+114."I only carry small flashlights are they are Light weight." (OTHER) 12/14/2015
+115."The Optics test Seemed easy, but it was just an Illusion." (PHYSICS x2) 12/15/2015
+116."Pop exploding is an example of a Fizzical change." (PHYSICS) 12/17/2015
+117."Let's play a Star Wars song! It's quite Dualble." (OTHER) 12/18/2015
+118."What instrument does a pool player play?" "A cue stick guitar." "It took me a Billiard years to come up with this." * (MUSIC/OTHER x2) 12/19/2015
+119."What do musicians say when they mess up a note?" "Son of a Pitch." (MUSIC) 12/19/2015
+120."What do you all a train that sneezes?" "Achoo-choo train." (OTHER) 12/22/2015
+121."Bomb defusing is so intense, it comes down to the Wire every time." (OTHER) 12/23/2015
+122."Tale me a good Story." (OTHER) 12/24/2015
+123."If a friend ever have his wedding on Christmas, I would say "Marry Christmas!" (OTHER) 12/24/2015
+124."He must be a math genius, his solutions are on Point." (MATH) 12/25/2015
+125."Are we going to have a white Christmas this year?" "Hail no!" (OTHER) 12/25/2015
+126."My friend was Wine-ing after he got ticketed for drinking and driving, so I told him to just Beer with it." (OTHER x2) 12/25/2015
+127."It's just a toy car, there's nothing to Ride home about." (OTHER) 12/26/2015
+128."What can you conclude upon seeing someone crying in math class?" "They did too much Sobtraction." (MATH) 12/26/2015
+129."Normally my teacher make our parents sign our tests, but he said 'You don't need to sign the Trig test cause it's already Sined.'". (MATH) 12/26/2015
+130."How did you get so many bruises just from shopping?!" "Because it's Boxing day!" (OTHER) 12/26/2015
+131."My school's bell was broken today, it was so quiet. I guess it deserves the No Bell Peace prize." (OTHER x2) 12/27/2015
+132."Ahh I knew 'Frog' wasn't the right answer!" "Toad you so." (OTHER) 12/27/2015
+133."Why do lumberjacks always seem annoyed?" "Because people Axe them too many questions." (OTHER) 12/28/2015
+134."Oh no! The pendulum broke!" "Damp it!" (PHYSICS) 12/28/2015
+135."What do you call the condition of being afraid of Chuck?" "Clucksterphobia" (OTHER) 12/28/2015
+136."You made my friend disappear!!!" "I'm Sorcery about that." (OTHER) 12/28/2015
+137."You should .com visit my website." (OTHER) 12/30/2015
+138."I thought having 2 brains would be a good thing, now I'll have to think Twice on that." 12/30/2015
+139."How do screws work? oh wait that's a reTorquerical question." (PHYSICS) 12/31/2015
+140."Phrases used to kill time? 'Hang on a Second', 'Give me a Minute', 'Hour let you know soon' are good ones." (OTHER x3) 12/31/2015
+141."Unit for measuring the speed of puns? 1 Pz [Punz] = 1 Pun / day." (OTHER) 12/31/2015
+142."Sorry, broken scissors just won't Cut it for me." (OTHER) 1/2/2016
+143."I never use my vacuum because it Sucks." (OTHER) 1/2/2016
+144."I feel attractive being a lab advisor because when I enter the room, all the computers gets turned on." (OTHER) 1/4/2016
+145."Why don't you like doing assignments online?" "Sorry, just not my Type." (OTHER) 1/5/2016
+146."I went to shop for a boat today, it was on Sail!" (OTHER) 1/5/2016
+147."We learned about Abstract Data Types today, at the end our teacher asked us if we had any Queuestions" (COMP SCI) 1/5/2016
+148."I'm pregnant..." "What?! You've got to be Kid-in-me!" (OTHER) 1/5/2016 *
+149."I'm so good at sleeping that I can do it with my eyes closed!" (OTHER) 1/6/2016
+150."How loud should I play this note? Forte decibels." (PHYSICS/MUSIC) 1/6/2016
+151."Why do photons never notice me?" "They got no Time." (PHYSICS) 1/7/2016
+152."In Einstein's world, the biggest question is: 2c or not 2c?" (PHYSICS) 1/7/2016
+153."I don't need to tell you how good these mics are, they speak for themselves!" (OTHER) 1/10/2016
+154."We got some positive feedback for your sound quality!" "How's that a good thing?!" (OTHER) 1/10/2016
+155."I love graphing, but for some people, graphing is where they draw the Line." (MATH) 1/12/2016
+156."Some people that took physics just crashed and burned." (PHYSICS) 1/12/2016
+157."Did you see the video on the new strand of bacteria they discovered? It's Spreading across the web!" (BIO) 1/13/2016
+158."I hate the floor function, it lets me Down every time." (MATH) 1/13/2016
+159."I hate fixing windows, it's a Pane." (OTHER) 1/14/2016
+160."I am the 'One Pun Man'." (OTHER) 1/14/2016
+161."Pikachu is Grounded for electrocuting his friends." (OTHER) 1/14/2016
+162."This brand of instant noodles is amazing, it will be Ramembered." (OTHER) 1/14/2016
+163."Do not get close to the angry computer! It will Byte!" (COMP SCI) 1/14/2016
+164."When my friend makes a pun on light - 'Eye see what you did there.'" (OTHER) 1/17/2016
+165."You watched 'Finding Nemo' already? I've been looking for it everywhere!" (OTHER) 1/18/2016
+166."Can I borrow you hammer?" "Sure, knock yourself out." (OTHER) 1/18/2016
+167."That's not how you tie laces! I'll Shoe you how it's done." (OTHER) 1/19/2016
+168."Why do you like math class?" "It's called Advanced Fun for a reason." (MATH) 1/19/2016
+169."Oh no... gravity changed...." "gg..." (PHYSICS) 1/20/2016
+170."What do people learn in bio class?" "The endocrying system" (BIO) 1/20/2016
+171."I went to see this drama production on puns today, it was a play on words." (OTHER) 1/21/2016
+172."How Ironic, I found a Washer in my Dryer." (OTHER x2) 1/22/2016
+173."With great power, comes with great resPunsibility" (OTHER) 1/22/2016 *
+174."I feel so connected, and for once, it's not Wi-fi." (OTHER) 1/23/2016
+175."I'm sorry! Please resPund to me!" (OTHER) 1/23/2016
+176."What's your favourite sport?" "Ping-Pun." (OTHER) 1/23/2016
+177."My jokes and puns kill people, I guess they're too Pungent." (OTHER) 1/23/2016
+178."Confusing physics question: A high speed boat is moving at sea at c, find it's colour." (PHYSICS) 1/24/2016
+179."Physics Q&A: A student at rest sees his friend runs at 5m/s..." "If the student is resting, how can he see?!" (PHYSICS) 1/24/2016
+180."He said he would only ride the car for 5 minutes, but he got carried away." (OTHER) 1/26/2016
+181."E = mc² is a weapon of Mass destruction." (PHYSICS) 1/26/2016
+182."Mr.Schrödinger, how would you like it? Crispy or grilled?" "Why not both?" (PHYSICS) 1/26/2016
+183."I hate computer class, after this year, I'm saying Bi to it forever!" (COMP SCI) 1/26/2016
+184."Why do you drink so much like your dad?" "I guess it Rums in the family." (OTHER) 1/26/2016
+185."Someone in Harry Potter that has lighting abilities? - Voltemort." (PHYSICS) 1/27/2016
+186."I'm Fastenated by how race cars work." (OTHER) 1/27/2016
+187."Now I know why I kill every math test, I have a Sharp calculator." (MATH) 1/27/2016
+188."Why are photography test questions always out of 3?" "Because it's the rule of 3rds." (OTHER) 1/28/2016
+189."Why do you always see couples giggling?" "Because it's an Inside joke you'll never get." (OTHER) 1/28/2016
+190."What's your High score?" "420 points." (OTHER) 1/29/2016
+191."If I plug USB hubs into other USB hubs, I can create a USB-Tree." (COMP SCI) 1/29/2016
+192."The font you choose for memes has a big Impact on its outcome." (OTHER) 1/29/2016
+193."Ahh tape doesn't work, I'll just Stick with glue." (OTHER) 1/30/2016
+194."How do you calculate the net force on a ship?" "Mast times acceleration." (PHYSICS) 1/30/2016
+195."After seeing my friend's new handsome hair style, I feel gel less." (OTHER) 1/30/2016
+196."I'm 18 and I still can't crack an egg properly, Yolk gotta be kidding me right now!" (OTHER) 1/31/2016
+197."Fishes Sea the world differently." (OTHER) 1/31/2016
+198."Asians are bad drivers - That's a Steereotype." (OTHER) 2/1/2016
+199."Black people listen to loud music - That's a Stereotype." (OTHER) 2/1/2016
+200."My robot helped win the war, he deserves a Metal of Honour." (OTHER) 2/1/2016
+201."Did you hear Bruno Mars's song Grenade?" "Yea, it Blows." (OTHER) 2/1/2016
+202."What do you call those explained forces in non-inertial frames of references?" "Faketicious forces." (PHYSICS) 2/1/2016
+203."Our country have stopped using coins, they said it's time for Change." (OTHER) 2/2/2016
+204."Why is your whole family bald?" "InHairitance." (OTHER) 2/3/2016
+205."What country do you find the most sheep in?" "Amehrica." (OTHER) 2/3/2016
+206."What is the similarity between women and Pi?" "They both go on and on." (OTHER) 2/3/2016
+207."What is the difference between women and Pi?" "Although they both go on and on, Pi is actually meaningful." (OTHER) 2/3/2016
+208."There's no letter 'X' in Korean, they crossed it out." (OTHER) 2/3/2016
+209."I failed my quiz on the alphabet, the only letter I got was F." (OTHER) 2/5/2016
+210."I failed my quiz on the alphabet, I only got A out of 26." (OTHER) 2/6/2016
+211."My cheese disappeared so fast! I guess it's called Swift cheese for a reason." (OTHER) 2/6/2016
+212."Whoa he told the truth for once, that was Honestpected." (OTHER) 2/6/2016
+213."The happiest vegetable is the Ha-lapeno." (OTHER) 2/8/2016
+214."My guests were amazed at my Halloween decorations, they were all like "Ooooo". (OTHER) 2/8/2016
+215."I have a Limited edition Calculus textbook." (MATH) 2/8/2016
+216."The face you make when you end up with the indeterminate form: 0_0" (MATH) 2/10/2016
+217."I can't find this limit, I hope l'Hôpital's rule will give us an Aid" (MATH) 2/10/2016
+218."No one made it into university, Accept for you." (OTHER) 2/12/2016
+219."Until your child is born, whoever the father is will not be A parent." (OTHER) 2/12/2016
+220."How does Iodine ask Oxygen out?" "Iodate you." (CHEM) 2/12/2016
+221."My friend made some horrible Pokemon puns, so I told him 'I want to pun chu so bad!'" (OTHER) 2/13/2016
+222."When I tried to shop for a Ford online, it said 'Ford O Ford error, car not found'" (OTHER) 2/13/2016
+223."The last pun I will add to this list will me my grand Punalle." (OTHER) 2/13/2016
+224."A bird that can't fly? For Rio??" (OTHER) 2/13/2016
+225."Back then when I was prepping for my exam, every day was violin-times day." (OTHER) 2/14/2016
+226."Two statisticians tied at 1-1 in a game, I guess they broke even." (MATH) 2/15/2016
+227."You can't just calculate the limit directly, you have to take on a different Approach." (MATH) 2/15/2016
+228."IOnly use standard input and output." (COMP SCI) 2/16/2016
+229."Brain surgery is only done on someone who's every open minded." (OTHER) 2/16/2016
+230."I wasn't here for music class today, were there any notes?" "Yes... A LOT." (MUSIC) 2/16/2016
+231."Our calc class needs us because there's no Calculus without 'us'." (MATH) 2/17/2016
+232."Programmers never get good marks cause they always get C or C+ on their tests." (COMP SCI) 2/17/2016
+233."Programmers' favourite food? C food." (COMP SCI) 2/17/2016
+234."Please stop..."'a' nobody got 't' fo dat." (PHYSICS) 2/17/2016
+235."I like working with glue because it always sticks to my plan." (OTHER) 2/20/2016
+236."She's ordering every hat before she even saw them, she's really getting a head of herself." (OTHER) 2/20/2016
+237."The problem with playing the oval is that you will always be flat." (MUSIC/MATH) 2/20/2016
+238."I don't know what frequency she is screaming at but it Hertz my ears." (PHYSICS) 2/21/2016
+239." Yes" = Yev' = Yea "(MATH) 2/22/2016
+240."I don't C the point of integrating." (MATH) 2/23/2016
+241."All you can draw is graph y = x, how Origin-al" (MATH) 2/23/2016
+242."My printer makes puns too, it turned my English teacher's name 'Mr.Mody' into 'Mr.Mod', well played..." (OTHER) 2/24/2016
+243."When my friend was stuck on quadratic equations, I asked 'What seems to be the Parabolem here?'" (MATH) 2/24/2016
+244."I lost my DNA, it's now DNE." (BIO) 2/25/2016
+245."What's a black board's favourite snack?" "Chalkolate." (OTHER) 2/27/2016
+246."Where do cats eat?" "In the Catfeteria." (OTHER) 2/27/2016
+247."My philosophy idea failed..." "It's ok, it's the thought that counts." (PHILOSOPHY) 2/28/2016
+248."What's the course code for Advanced Functions?" "Advf(x)" (MATH) 2/28/2016
+249."The most common choices on a biology multiple choice test are DNA." (BIO) 2/29/2016
+250."While the most common choices on a math multiple choice test are DNE." (MATH) 2/29/2016
+251."Protractors are always depressed because they can never find their other half." (MATH) 2/29/2016
+252."Wanna help me make a nuke? I can't do it without U." (PHYSICS/CHEM) 3/1/2016
+253."Did you how I managed to escape Iraq? Iran." (GEO) 3/4/2016
+254."Would you like to take a sneak Peak at the upcoming test on optimization?" (MATH) 3/4/2016
+255."Our calculus teacher assigned all the homework to optimize our learning." (MATH) 3/4/2016
+256."Find the acceleration of the car a(t) 2 seconds." (MATH) 3/4/2016
+257."Out of the 26 of you, only 3 made the cut: 'c', 'u' and 't'." (OTHER) 3/5/2016
+258."Breaking News: Truck runs into glassware store." (OTHER) 3/5/2016
+259."Name an extreme sport." "Optimization in calculus." (MATH) 3/8/2016
+260."You know what doesn't make Cents? Pennies." (OTHER) 3/8/2016
+261."Our school removed all the black boards, but the one bright side, we got new white boards instead." (OTHER) 3/10/2016
+262."Curve sketching is where I draw the Line." (MATH) 3/11/2016
+263."My hand-made rubber band gun sure comes in Handy." (OTHER) 3/11/2016
+264."Black people run fast because they have built in solar panels. (OTHER) 3/13/2016
+265."All my math tests are messy because there's Pi everywhere." (MATH) 3/14/2016
+266."How did get that robot?" "I Bot it." (OTHER) 3/14/2016
+267."If the English language could stop having sew many words that sound the same that wood be grate." (OTHER x3) 3/15/2016
+268."I love lawyers, they Rule." (OTHER) 3/15/2016
+269."I maybe have said goodPi, but I'll be back." (MATH x2) 3/15/2016
+270."Why is the hen always sitting all day?" "Because it's Lay-z." (OTHER) 3/15/2016
+271."Duel monitors is a must for all Star Wars fans." (OTHER) 2016 3/17/2016
+272."Before music existed, no one thought the world would Bb." (MUSIC) 3/17/2016
+273."How wast he movie Shrek?" "Meh, so so, mediogre." (OTHER) 3/17/2016
+274."Mr.Boomerang we can't serve you right now, please come back later." (OTHER) 3/18/2016
+275."My best physics student fell off a cliff, he had so much potential..." (PHYSICS) 3/18/2016
+276."At one point in time, I was addicted to my Calculus homework." (MATH) 3/19/2016
+277."Weeds are growing uncontrollably in my year." "Bet you never sow that coming." (OTHER) 3/19/2016
+278."There's a fine difference between gaming and gambling, lets b real here. "(OTHER) 3/20/2016
+279."These headphones are broken, I can't hear jack s**t." (OTHER) 3/21/2016
+280."What's the name of that Pho place we ate at last time?" "Uhh... I Pho-got." (OTHER) 3/21/2016
+281."Don't have an idea on the size of the library? Look at my panorama, you'll get the bigger picture." (OTHER) 3/23/2016
+282."Someone who's scared of panoramas: Panoramanoid." (OTHER) 3/23/2016
+283."Seeing three crazy girls moving around in an elevator as they descend to the main floor is wrong on so many levels." (OTHER) 3/23/2016
+284."Least environmental friendly fuel company? Esso, the combustion release so much Esso 2." (CHEM) 3/23/2016
+285."The bright light blinded me, how eyeronic." (OTHER) 3/23/2016
+286."Why do iPhone users never go to the doctor?" "Because an Apple a day keeps the doctor away." (OTHER) 3/23/2016
+287."How bad was the traffic jam? Severe or Miled." (OTHER) 3/23/2016
+288."Dustin's name spelled without the 't' looks weird, Dusin it?" (OTHER) 3/25/2016
+289."I almost got shot!" "Pew, that was close." (OTHER) 3/25/2016
+290."I bricked my Android phone when I tried to root it, it's a Nokia now." (OTHER) 3/26/2016
+291."Which musical note is the most annoying?" "The one that keeps saying 'Pick Mi! Pick Mi!'" (MUSIC) 3/28/2016
+292."I can quickly teach you magnetism, it's ferroly simple." (PHYSICS) 3/30/2016
+293."What do you call someone who's always energetic with puns?" "A Pungee jumper." (OTHER) 3/31/2016
+294."Your runny nose snot my problem." (OTHER) 3/31/2016
+295."Endless music is the best, I'd rate it 24/7." (OTHER) 4/3/2016
+296."There's something wrong with my left hand, it doesn't seem right." (OTHER) 4/3/2016
+297."Jokes about skeletons are so Humerus." (BIO) 4/4/2016
+298."Do you C how you integrate now?" (MATH) 4/5/2016
+299."Do you know how to draw Lewis diagrams?" "Uhh.. .. .. .. I forgot, sorry." (CHEM) 4/6/2016
+300."George Bush excelled in math class, he aced his test on the Intersection of Planes." (MATH) 4/6/2016
+301."Units of acceleration for an osilating object? - Meters per secant squared." (MATH/PHYSICS) 4/7/2016
+302."You runny nose snot my problem." (OTHER) 4/7/2016
+303."Your algebra skills is x-celellent, you should try out for the X Factor." (MATH x2) 4/8/2016
+304."We are writing an essay on spells, the teacher said we need both primary and secondary sorceries." (OTHER) 4/9/2016
+305."Dimonds are rare, so if you find any, seldom to me." (OTHER) 4/14/2016
+306."Math without the third dimension is just two plane." (MATH) 4/15/2016
+307."I know why I always lose my best erasers, they leave no trace the last time I've seen them." (OTHER) 4/16/2016
+308."Has anyone seen this horse?" "Neigh." (OTHER) 4/17/2016
+309."A chemistry scholar got his pHDegree." (CHEM) 4/19/2016
+310."The speed limit of the high way is 420 km/hr." (OTHER) 4/20/2016
+311."You find Vectors hard? I find them very straight forward." (MATH) 4/22/2016
+311."You copied my beat without my permission! That's plagiarhytm." (MUSIC) 4/23/2016
+312."Haber is an amazing chef, his food is always the bomb." (CHEM) 4/25/2016
+313."Cosine law has no ambiguous case, this is where it outSines the other laws." (MATH) 4/26/2016
+314."Don't listen to Drake's music when driving, it's illegal to Drake and drive." (OTHER) 4/27/2016
+315."Once a pun a time, Jackie was born." (OTHER) 4/28/2016
+316."I searched up 'Finding Nemo' on Netflix, it said 'No results were found.'" (OTHER) 4/28/2016
+317."I love burning people, that's why they call me Char-man-der." (OTHER) 4/30/2016
+318."10 x 10 Rubik's cubes? That's a paint to draw." (OTHER) 4/30/2016
+319."Unintended or Punintended? That is the question." (OTHER/SHAKESPEARE) 4/30/2016
+320."Why can't a table stand on two legs?" "Because it's Uns-table." (OTHER) 5/1/2016
+321."What if Einstein's theory of Relativity was wrong?" "It's ok, it's the thought that counts." (PHYSICS) 5/3/2016
+322."Get thee to a nunnery! Sorry, no offence." "Nun taken." (SHAKESPEARE) 5/10/2016
+323."What's a Horatio?" "1:9999" (SHAKESPEARE) 5/10/2016
+324."Hip hip...HORATIO!" (SHAKESPEARE) 5/10/2016
+325."Microwave foods are not safe for wok." (OTHER) 5/11/2016
+326."Sorry, parallel lines don't meet our requirements." (MATH) 5/11/2016
+327."What do you major in?" "Music." (MUSIC) 5/11/2016
+328."Though the CCC be madness, yet there is method in ’t." (COMP-SCI/SHAKESPEARE) 5/11/2016
+329."Ikea book shelves don't have instructions..." "Yea, they are pretty shelf explanatory." (OTHER) 5/12/2016
+330."My friend is a cannibal, she likes eating raw men." (OTHER) 5/13/2016
+331."If ginger able is made out of real ginger, then what is juice made out of?" (OTHER) 5/13/2016
+332."Santa is here to give everyone drinks, HOH HOH HOH!" (OTHER) 5/15/2016
+333."I am Chinese and I am cheap, why? Because I'm made in China." (OTHER) 5/18/2016
+334."The sin law lies, and lying is a sin in many religions." (OTHER) 5/20/2016
+336."When your comp sci program does not work, it becomes comp sigh." (COMP-SCI) 5/25/2016
+337."Today we are learning about water and its physical and chemical properties, let's dive straight into it." (CHEM) 5/26/2016
+338."Black guys are the best magicians because they go poof after they become fathers." (OTHER) 5/27/2016
+339."Word used to describe the frequency of puns? Apundance." (OTHER) 5/28/2016
+340."Hitler never became an artist, he became a chemist instead; doing stoichiometry and calculations with [camps]." (CHEM) 5/28/2016
+341."The chemicals he used caust him a holot." (OTHER) 5/28/2016
+342."We learned about the element iron today, it was ferroly simple." (CHEM) 5/28/2016
+343."Butanal is a pain is the ass to name." (CHEM) 5/28/2016
+344."We need a river of unlimited beer...R-OH R-OH R-OH your boat, gently down the stream." (CHEM) 5/28/2016
+345."Unit for measuring the loudness of an electric guitar? Amps." (PHYSICS/MUSIC) 5/30/2016
+346."I'm bringing beer to school, it's a quite a whisky move." (OTHER) 5/31/2016
+347."You are using if statements?" "Yea, what else?" (COMP SCI) 6/1/2016
+348."Alkane like a wrecking ball." (CHEM) 6/1/2016
+349."I got a few matrix up my sleeves." (OTHER) 6/6/2016
+350."I forgot how to name Esters...OATE I REMEMEBER!" (CHEM) 6/8/2016
+351."What's a dog's favourite instrument?" "A trom-bone." (MUSIC) 6/10/2016
+352."Jackie of all trades, master of pun." (OTHER) 6/12/2016 *
+353."How do you ask a statistician out?" "You datum." (MATH) 6/13/2016
+354."Some chess pieces are always looked down upawn." (OTHER) 6/15/2016
+355."My favourite Green Day song? 21 Puns." (MUSIC) 6/19/2016
+356."The only things that are right on your test are the corners!" (MATH) 6/20/2016
+357."Learning about the 3rd dimension today in math really stood out to me." (MATH) 6/24/2016
+358."How do you ask a statistician out?" "You datum." (MATH) 6/24/2016
+359."Taste of Asia is a cruel place, there's public roasting everywhere." (OTHER) 6/25/2016
+360."I showed my crew how to make the invisible suit many times. I thought I made myself clear but they still don't see what I did." (OTHER) 6/25/2016
+361."Deez lines. Dot them!" (MATH/OTHER MEME) 6/2/2016
+362."What do you call an immigrant zombie?" "Flesh off the boat." (OTHER) 6/27/2016
+363."Please don't shoot, I pun in peace." (OTHER) 6/28/2016
+364."Why do athletes get cups?" "Because they are thirsty." (OTHER) 6/29/2016
+365."What do you call a fake trophy?" "A trollphy." (OTHER) 6/30/2016
+367."We missed the storm, it went right over our heads." (OTHER) 7/15/2016
+368."What's so great about math commercials?" "Well the ADs are big pluses." (MATH) 7/27/2016
+369."You and I should be together." "Yeah on a keyboard maybe." (OTHER) 8/16/2016
+370."Upon hearing that the world is going to end the next day, people are running like there's no tomorrow." (OTHER) 9/18/2016
+371."My dad left the cooler in our dorm... I guess our dorm just got a little cooler" (OTHER) 10/14/2016
+372."My friend skipped his lecture on Integrals, so I summed it up in one line for him" (MATH) 10/14/2016
+373."My friend fell off of a cliff!" "Oh, mg!" (PHYSICS) 1/30/2016
+374."Let's do a fundraiser for a new microphone, our voices must be heard." (OTHER) 2/27/2017
+375."My friend subtracted his numbers in the wrong order, it makes a huge difference!" (MATH) 3/19/2017
+376."Somebody managed to count to infinity, I guess only Aleph nulls" (MATH) 6/28/2017

@@ -1,19 +1,1294 @@
-{
-  "puns": [
-    {
-      "name": 1,
-      "content": "lol",
-      "category": "math"
-    },
-    {
-      "name": 2,
-      "content": "hello",
-      "category": "CS"
-    },
-    {
-      "name": 3,
-      "content": "test",
-      "category": "Science"
-    }
-  ]
-}
+[
+  {
+    "content": "I Amp Currently studying for tomorrow's test on electricity.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Circular motion is a tough unit, I'm not getting anywhere even after 3 hours of studying.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "I tried teaching my brother fractions today, he couldn't understand Half of what I was saying",
+    "category": "MATH"
+  },
+  {
+    "content": "I can't teach him Calculus yet, he has his Limits.",
+    "category": "MATH"
+  },
+  {
+    "content": "What do you call a good program? An .execellent program.",
+    "category": "COMP"
+  },
+  {
+    "content": "Take Note of the accidentals in this section, it's quite tricky.",
+    "category": "MUSIC"
+  },
+  {
+    "content": "Teach me trig, sin[pi]!",
+    "category": "MATH"
+  },
+  {
+    "content": "I have Terable news, my computer Ram out of memory.",
+    "category": "COMP"
+  },
+  {
+    "content": "The chem test was brutal. The teacher showed absolutely no Enthalpy.",
+    "category": "CHEM"
+  },
+  {
+    "content": "Your balance has been Reduced due to the Charges placed on your account.",
+    "category": "CHEM"
+  },
+  {
+    "content": "There are a Variety of theories on Meiosis.",
+    "category": "BIO"
+  },
+  {
+    "content": "You took Olive my good jokes about Vegetables!",
+    "category": "OTHER"
+  },
+  {
+    "content": "Don't you just want to pour 12M HCl on him so that he Dissociates for good?",
+    "category": "CHEM"
+  },
+  {
+    "content": "Too much programming has made me C-sick.",
+    "category": "COMP"
+  },
+  {
+    "content": "Being a neutrino is tough, they go through so much in life.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "How does data move around in a computer? With the Universal Serial Bus.",
+    "category": "COMP"
+  },
+  {
+    "content": "If you work with a partner in biology class, don't they become your Life partner?",
+    "category": "BIO"
+  },
+  {
+    "content": "Sometimes I just don't know what I'm thinking, my head has a mind of its own...",
+    "category": "OTHER"
+  },
+  {
+    "content": "What does a percussionist on drugs say?",
+    "category": "MUSIC"
+  },
+  {
+    "content": "I went to a Halloween concert, but everyone Booed",
+    "category": "OTHER"
+  },
+  {
+    "content": "If you run out of oxygen while scuba diving, you're in Deep trouble",
+    "category": "OTHER"
+  },
+  {
+    "content": "I had a test on explosive chemicals today, Bombed it",
+    "category": "CHEM"
+  },
+  {
+    "content": "I love kinematics graphs, I'm really good a-t them.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "My strict chem teacher want me to make a molecular model, I just don't have the Balls to do it.",
+    "category": "CHEM"
+  },
+  {
+    "content": "I will be natural as ln as you are with me.",
+    "category": "MATH"
+  },
+  {
+    "content": "I want to drop my assignment on the ground so gravity can so do some of the Work for me.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "I hate decimals, they just don't Float in my boat.",
+    "category": "COMP"
+  },
+  {
+    "content": "What's the similarity between a$$holes and asymptotes?",
+    "category": "MATH"
+  },
+  {
+    "content": "If you can't play in the band, then Rest in Piece to you.",
+    "category": "MUSIC"
+  },
+  {
+    "content": "Now is the Right time to use Pythagorean Theorem.",
+    "category": "MATH"
+  },
+  {
+    "content": "Study vectors hard, or you will lose your sense of Direction.",
+    "category": "MATH"
+  },
+  {
+    "content": "How many questions did you get on the geography test for Canada?",
+    "category": "GEO"
+  },
+  {
+    "content": "How was your algebra test?",
+    "category": "MATH"
+  },
+  {
+    "content": "Math homework is a good x-cercise, I don't know y but it works.",
+    "category": "MATH"
+  },
+  {
+    "content": "If I make physics jokes would you understand the Reference?",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "How do chemists see in the dark?",
+    "category": "Electrolytes)."
+  },
+  {
+    "content": "Your music jokes are terrible, get Bach to me once you come up with something good.",
+    "category": "MUSIC"
+  },
+  {
+    "content": "Did you like the lesson on Fungi?",
+    "category": "BIO"
+  },
+  {
+    "content": "We had a geometry test today, everybody got Rect.",
+    "category": "MATH"
+  },
+  {
+    "content": "Apparently there's some Korean band named f(x).",
+    "category": "x)."
+  },
+  {
+    "content": "I've mastered my logs, now they see me Rolling.",
+    "category": "MATH"
+  },
+  {
+    "content": "Your jokes are trash, Litterally.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I was wondering how springs work, then it Hit me.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Not trying to be Mean but you are just an Average student.",
+    "category": "MATH"
+  },
+  {
+    "content": "If you can't Reach me, try calling my Extension.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "A Pop quiz on Hooke's law Jumped on us today.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "We are supposed to know the properties of springs but all people think about is summer.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Your bad trig jokes are really getting Repetitive.",
+    "category": "MATH"
+  },
+  {
+    "content": "I need to do well on trig to show my teacher that I am a Radian-t student.",
+    "category": "MATH"
+  },
+  {
+    "content": "On Halloween, everyone in my math class yelled 'Trig or Treat!'",
+    "category": "MATH"
+  },
+  {
+    "content": "The test was long, I didn't have enough time to fini...",
+    "category": "OTHER"
+  },
+  {
+    "content": "What was the Circumference? Idk, but it's Around 5 cm.",
+    "category": "MATH"
+  },
+  {
+    "content": "Put it the on the ground, let µ do all the work.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "I bombed my vectors test, but my mark still went up... by -5%.",
+    "category": "MATH"
+  },
+  {
+    "content": "You guys can't be in my team, you're Allies.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I couldn't get the Right answer, so I Left it.",
+    "category": "OTHER"
+  },
+  {
+    "content": "What's a percussionist's favourite mathematical function? LogaRythms",
+    "category": "MUSIC/MATH"
+  },
+  {
+    "content": "I don't like guitar players, they are always so Picky.",
+    "category": "MUSIC"
+  },
+  {
+    "content": "The Pythagorean identity is ONEderful.",
+    "category": "MATH"
+  },
+  {
+    "content": "You're are playing too loud!",
+    "category": "MUSIC"
+  },
+  {
+    "content": "What do you call the act of stealing saxophones?",
+    "category": "MUSIC"
+  },
+  {
+    "content": "Help me make a nuclear reactor.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "We learned about cellular respiration today, I didn't know my phone needed to breathe...",
+    "category": "BIO"
+  },
+  {
+    "content": "What do you call an identity that can't be solved?",
+    "category": "MATH"
+  },
+  {
+    "content": "Trudeau is such a player, he has so many people in his Cabinet.",
+    "category": "OTHER"
+  },
+  {
+    "content": "How do ducks solve math problems?",
+    "category": "MATH"
+  },
+  {
+    "content": "What's the difference between a student and a camera?",
+    "category": "OTHER"
+  },
+  {
+    "content": "My marks are like mountains, high and stable.",
+    "category": "OTHER"
+  },
+  {
+    "content": "When prom comes, most people Prompose; as a programmer, I Prompt.",
+    "category": "COMP"
+  },
+  {
+    "content": "How do ducks hack computers? They Quack the code.",
+    "category": "COMP"
+  },
+  {
+    "content": "I love to try the Van de Graaff generator but I dont have the Balls to do it.",
+    "category": "SCIENCE"
+  },
+  {
+    "content": "What do you call someone who can't afford to go skating?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Potato wedges are healthy because they are Wedgetables.",
+    "category": "OTHER"
+  },
+  {
+    "content": "What do you do when your hands are frozen?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Sushi is very SuFishticated.",
+    "category": "OTHER"
+  },
+  {
+    "content": "You were going Usainly fast!",
+    "category": "OTHER"
+  },
+  {
+    "content": "I was trying to teach my brother Trigonometric graphs but he Phased out on me.",
+    "category": "MATH"
+  },
+  {
+    "content": "We finally started learning Special Relativity, it's about Time!",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Why do you hate using Straws?",
+    "category": "OTHER"
+  },
+  {
+    "content": "How was the Lamb chops?",
+    "category": "Other"
+  },
+  {
+    "content": "I like Linear systems, they are very Straight forward.",
+    "category": "MATH"
+  },
+  {
+    "content": "When two good students work together in math class, they become 2good.",
+    "category": "MATH"
+  },
+  {
+    "content": "What's an elephant's favourite instrument?",
+    "category": "MUSIC"
+  },
+  {
+    "content": "We had a lesson on Torque today, my friend seemed very Crossed.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Why are drummers always the ones that keep time?",
+    "category": "MUSIC"
+  },
+  {
+    "content": "What do you call a snail in space?",
+    "category": "BIO"
+  },
+  {
+    "content": "What do you call a snail not in space?",
+    "category": "BIO"
+  },
+  {
+    "content": "What does the Fox say?",
+    "category": "OTHER"
+  },
+  {
+    "content": "People who like Sushi tend to get high because they often Seaweed.",
+    "category": "OTHER"
+  },
+  {
+    "content": "We're out of Beef, we are in a Steak of emergency!",
+    "category": "OTHER"
+  },
+  {
+    "content": "My favourite Disney character is RaPUNzel, we have so much in common.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Oil prices are Rigged.",
+    "category": "OTHER"
+  },
+  {
+    "content": "If 420 is not high enough, try 420!",
+    "category": "MATH"
+  },
+  {
+    "content": "I have not made a joke in the past 3 days, I'm so so Pungry!",
+    "category": "OTHER"
+  },
+  {
+    "content": "You mixed the yarn labels! How Wool you know which one is which now?!",
+    "category": "OTHER"
+  },
+  {
+    "content": "I love trigonometry, it feels like Secant nature to me.",
+    "category": "MATH"
+  },
+  {
+    "content": "We are supposed to track themes on a story on exponential functions, I think Power Hierarchies is a good one.",
+    "category": "MATH"
+  },
+  {
+    "content": "I Nike your new shoes.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Nice house!",
+    "category": "OTHER"
+  },
+  {
+    "content": "I was writing deep messages, took a while to Sink in.",
+    "category": "OTHER"
+  },
+  {
+    "content": "The hockey players were fighting, no one knew what the Puck happened.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Physics is magic! I can Poof it to you.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I only carry small flashlights are they are Light weight.",
+    "category": "OTHER"
+  },
+  {
+    "content": "The Optics test Seemed easy, but it was just an Illusion.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Pop exploding is an example of a Fizzical change.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Let's play a Star Wars song! It's quite Dualble.",
+    "category": "OTHER"
+  },
+  {
+    "content": "What instrument does a pool player play?",
+    "category": "MUSIC/OTHER"
+  },
+  {
+    "content": "What do musicians say when they mess up a note?",
+    "category": "MUSIC"
+  },
+  {
+    "content": "What do you all a train that sneezes?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Bomb defusing is so intense, it comes down to the Wire every time.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Tale me a good Story.",
+    "category": "OTHER"
+  },
+  {
+    "content": "He must be a math genius, his solutions are on Point.",
+    "category": "MATH"
+  },
+  {
+    "content": "Are we going to have a white Christmas this year?",
+    "category": "OTHER"
+  },
+  {
+    "content": "My friend was Wine-ing after he got ticketed for drinking and driving, so I told him to just Beer with it.",
+    "category": "OTHER"
+  },
+  {
+    "content": "It's just a toy car, there's nothing to Ride home about.",
+    "category": "OTHER"
+  },
+  {
+    "content": "What can you conclude upon seeing someone crying in math class?",
+    "category": "MATH"
+  },
+  {
+    "content": "Normally my teacher make our parents sign our tests, but he said 'You don't need to sign the Trig test cause it's already Sined.'",
+    "category": "MATH"
+  },
+  {
+    "content": "How did you get so many bruises just from shopping?!",
+    "category": "OTHER"
+  },
+  {
+    "content": "My school's bell was broken today, it was so quiet. I guess it deserves the No Bell Peace prize.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Ahh I knew 'Frog' wasn't the right answer!",
+    "category": "OTHER"
+  },
+  {
+    "content": "Why do lumberjacks always seem annoyed?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Oh no! The pendulum broke!",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "You made my friend disappear!!!",
+    "category": "OTHER"
+  },
+  {
+    "content": "You should .com visit my website.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I thought having 2 brains would be a good thing, now I'll have to think Twice on that.",
+    "category": ""
+  },
+  {
+    "content": "How do screws work? oh wait that's a reTorquerical question.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Phrases used to kill time? 'Hang on a Second', 'Give me a Minute', 'Hour let you know soon' are good ones.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Unit for measuring the speed of puns? 1 Pz [Punz] = 1 Pun / day.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Sorry, broken scissors just won't Cut it for me.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I never use my vacuum because it Sucks.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I feel attractive being a lab advisor because when I enter the room, all the computers gets turned on.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Why don't you like doing assignments online?",
+    "category": "OTHER"
+  },
+  {
+    "content": "I went to shop for a boat today, it was on Sail!",
+    "category": "OTHER"
+  },
+  {
+    "content": "We learned about Abstract Data Types today, at the end our teacher asked us if we had any Queuestions",
+    "category": "COMP"
+  },
+  {
+    "content": "I'm pregnant...",
+    "category": "OTHER"
+  },
+  {
+    "content": "I'm so good at sleeping that I can do it with my eyes closed!",
+    "category": "OTHER"
+  },
+  {
+    "content": "How loud should I play this note? Forte decibels.",
+    "category": "PHYSICS/MUSIC"
+  },
+  {
+    "content": "Why do photons never notice me?",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "In Einstein's world, the biggest question is: 2c or not 2c?",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "I don't need to tell you how good these mics are, they speak for themselves!",
+    "category": "OTHER"
+  },
+  {
+    "content": "We got some positive feedback for your sound quality!",
+    "category": "OTHER"
+  },
+  {
+    "content": "I love graphing, but for some people, graphing is where they draw the Line.",
+    "category": "MATH"
+  },
+  {
+    "content": "Some people that took physics just crashed and burned.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Did you see the video on the new strand of bacteria they discovered? It's Spreading across the web!",
+    "category": "BIO"
+  },
+  {
+    "content": "I hate the floor function, it lets me Down every time.",
+    "category": "MATH"
+  },
+  {
+    "content": "I hate fixing windows, it's a Pane.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I am the 'One Pun Man'.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Pikachu is Grounded for electrocuting his friends.",
+    "category": "OTHER"
+  },
+  {
+    "content": "This brand of instant noodles is amazing, it will be Ramembered.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Do not get close to the angry computer! It will Byte!",
+    "category": "COMP"
+  },
+  {
+    "content": "When my friend makes a pun on light - 'Eye see what you did there.'",
+    "category": "OTHER"
+  },
+  {
+    "content": "You watched 'Finding Nemo' already? I've been looking for it everywhere!",
+    "category": "OTHER"
+  },
+  {
+    "content": "Can I borrow you hammer?",
+    "category": "OTHER"
+  },
+  {
+    "content": "That's not how you tie laces! I'll Shoe you how it's done.",
+    "category": "OTHER"
+  },
+  {
+    "content": "What do people learn in bio class?",
+    "category": "BIO"
+  },
+  {
+    "content": "I went to see this drama production on puns today, it was a play on words.",
+    "category": "OTHER"
+  },
+  {
+    "content": "How Ironic, I found a Washer in my Dryer.",
+    "category": "OTHER"
+  },
+  {
+    "content": "With great power, comes with great resPunsibility",
+    "category": "OTHER"
+  },
+  {
+    "content": "I feel so connected, and for once, it's not Wi-fi.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I'm sorry! Please resPund to me!",
+    "category": "OTHER"
+  },
+  {
+    "content": "What's your favourite sport?",
+    "category": "OTHER"
+  },
+  {
+    "content": "My jokes and puns kill people, I guess they're too Pungent.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Confusing physics question: A high speed boat is moving at sea at c, find it's colour.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Physics Q&A: A student at rest sees his friend runs at 5m/s...",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "He said he would only ride the car for 5 minutes, but he got carried away.",
+    "category": "OTHER"
+  },
+  {
+    "content": "E = mc² is a weapon of Mass destruction.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Mr.Schrödinger, how would you like it? Crispy or grilled?",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Why do you drink so much like your dad?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Someone in Harry Potter that has lighting abilities? - Voltemort.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "I'm Fastenated by how race cars work.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Now I know why I kill every math test, I have a Sharp calculator.",
+    "category": "MATH"
+  },
+  {
+    "content": "Why are photography test questions always out of 3?",
+    "category": "OTHER"
+  },
+  {
+    "content": "What's your High score?",
+    "category": "OTHER"
+  },
+  {
+    "content": "The font you choose for memes has a big Impact on its outcome.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Ahh tape doesn't work, I'll just Stick with glue.",
+    "category": "OTHER"
+  },
+  {
+    "content": "How do you calculate the net force on a ship?",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "After seeing my friend's new handsome hair style, I feel gel less.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Fishes Sea the world differently.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Asians are bad drivers - That's a Steereotype.",
+    "category": "OTHER"
+  },
+  {
+    "content": "My robot helped win the war, he deserves a Metal of Honour.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Did you hear Bruno Mars's song Grenade?",
+    "category": "OTHER"
+  },
+  {
+    "content": "What do you call those explained forces in non-inertial frames of references?",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Our country have stopped using coins, they said it's time for Change.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Why is your whole family bald?",
+    "category": "OTHER"
+  },
+  {
+    "content": "What country do you find the most sheep in?",
+    "category": "OTHER"
+  },
+  {
+    "content": "What is the similarity between women and Pi?",
+    "category": "OTHER"
+  },
+  {
+    "content": "There's no letter 'X' in Korean, they crossed it out.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I failed my quiz on the alphabet, the only letter I got was F.",
+    "category": "OTHER"
+  },
+  {
+    "content": "My cheese disappeared so fast! I guess it's called Swift cheese for a reason.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Whoa he told the truth for once, that was Honestpected.",
+    "category": "OTHER"
+  },
+  {
+    "content": "The happiest vegetable is the Ha-lapeno.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I have a Limited edition Calculus textbook.",
+    "category": "MATH"
+  },
+  {
+    "content": "The face you make when you end up with the indeterminate form: 0_0",
+    "category": "MATH"
+  },
+  {
+    "content": "I can't find this limit, I hope l'Hôpital's rule will give us an Aid",
+    "category": "MATH"
+  },
+  {
+    "content": "No one made it into university, Accept for you.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Until your child is born, whoever the father is will not be A parent.",
+    "category": "OTHER"
+  },
+  {
+    "content": "How does Iodine ask Oxygen out?",
+    "category": "CHEM"
+  },
+  {
+    "content": "When I tried to shop for a Ford online, it said 'Ford O Ford error, car not found'",
+    "category": "OTHER"
+  },
+  {
+    "content": "The last pun I will add to this list will me my grand Punalle.",
+    "category": "OTHER"
+  },
+  {
+    "content": "A bird that can't fly? For Rio??",
+    "category": "OTHER"
+  },
+  {
+    "content": "Back then when I was prepping for my exam, every day was violin-times day.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Two statisticians tied at 1-1 in a game, I guess they broke even.",
+    "category": "MATH"
+  },
+  {
+    "content": "You can't just calculate the limit directly, you have to take on a different Approach.",
+    "category": "MATH"
+  },
+  {
+    "content": "IOnly use standard input and output.",
+    "category": "COMP"
+  },
+  {
+    "content": "Brain surgery is only done on someone who's every open minded.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I wasn't here for music class today, were there any notes?",
+    "category": "MUSIC"
+  },
+  {
+    "content": "Our calc class needs us because there's no Calculus without 'us'.",
+    "category": "MATH"
+  },
+  {
+    "content": "Programmers never get good marks cause they always get C or C+ on their tests.",
+    "category": "COMP"
+  },
+  {
+    "content": "Programmers' favourite food? C food.",
+    "category": "COMP"
+  },
+  {
+    "content": "I like working with glue because it always sticks to my plan.",
+    "category": "OTHER"
+  },
+  {
+    "content": "The problem with playing the oval is that you will always be flat.",
+    "category": "MUSIC/MATH"
+  },
+  {
+    "content": "I don't know what frequency she is screaming at but it Hertz my ears.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "I don't C the point of integrating.",
+    "category": "MATH"
+  },
+  {
+    "content": "When my friend was stuck on quadratic equations, I asked 'What seems to be the Parabolem here?'",
+    "category": "MATH"
+  },
+  {
+    "content": "I lost my DNA, it's now DNE.",
+    "category": "BIO"
+  },
+  {
+    "content": "What's a black board's favourite snack?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Where do cats eat?",
+    "category": "OTHER"
+  },
+  {
+    "content": "My philosophy idea failed...",
+    "category": "PHILOSOPHY"
+  },
+  {
+    "content": "The most common choices on a biology multiple choice test are DNA.",
+    "category": "BIO"
+  },
+  {
+    "content": "While the most common choices on a math multiple choice test are DNE.",
+    "category": "MATH"
+  },
+  {
+    "content": "Protractors are always depressed because they can never find their other half.",
+    "category": "MATH"
+  },
+  {
+    "content": "Wanna help me make a nuke? I can't do it without U.",
+    "category": "PHYSICS/CHEM"
+  },
+  {
+    "content": "Did you how I managed to escape Iraq? Iran.",
+    "category": "GEO"
+  },
+  {
+    "content": "Would you like to take a sneak Peak at the upcoming test on optimization?",
+    "category": "MATH"
+  },
+  {
+    "content": "Our calculus teacher assigned all the homework to optimize our learning.",
+    "category": "MATH"
+  },
+  {
+    "content": "Find the acceleration of the car a(t) 2 seconds.",
+    "category": "t)"
+  },
+  {
+    "content": "Out of the 26 of you, only 3 made the cut: 'c', 'u' and 't'.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Breaking News: Truck runs into glassware store.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Name an extreme sport.",
+    "category": "MATH"
+  },
+  {
+    "content": "You know what doesn't make Cents? Pennies.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Our school removed all the black boards, but the one bright side, we got new white boards instead.",
+    "category": "OTHER"
+  },
+  {
+    "content": "My hand-made rubber band gun sure comes in Handy.",
+    "category": "OTHER"
+  },
+  {
+    "content": "All my math tests are messy because there's Pi everywhere.",
+    "category": "MATH"
+  },
+  {
+    "content": "How did get that robot?",
+    "category": "OTHER"
+  },
+  {
+    "content": "If the English language could stop having sew many words that sound the same that wood be grate.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I love lawyers, they Rule.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I maybe have said goodPi, but I'll be back.",
+    "category": "MATH"
+  },
+  {
+    "content": "Duel monitors is a must for all Star Wars fans.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Before music existed, no one thought the world would Bb.",
+    "category": "MUSIC"
+  },
+  {
+    "content": "How wast he movie Shrek?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Mr.Boomerang we can't serve you right now, please come back later.",
+    "category": "OTHER"
+  },
+  {
+    "content": "My best physics student fell off a cliff, he had so much potential...",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "At one point in time, I was addicted to my Calculus homework.",
+    "category": "MATH"
+  },
+  {
+    "content": "Weeds are growing uncontrollably in my year.",
+    "category": "OTHER"
+  },
+  {
+    "content": "These headphones are broken, I can't hear jack s**t.",
+    "category": "OTHER"
+  },
+  {
+    "content": "What's the name of that Pho place we ate at last time?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Don't have an idea on the size of the library? Look at my panorama, you'll get the bigger picture.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Seeing three crazy girls moving around in an elevator as they descend to the main floor is wrong on so many levels.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Least environmental friendly fuel company? Esso, the combustion release so much Esso 2.",
+    "category": "CHEM"
+  },
+  {
+    "content": "The bright light blinded me, how eyeronic.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Why do iPhone users never go to the doctor?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Dustin's name spelled without the 't' looks weird, Dusin it?",
+    "category": "OTHER"
+  },
+  {
+    "content": "I almost got shot!",
+    "category": "OTHER"
+  },
+  {
+    "content": "I bricked my Android phone when I tried to root it, it's a Nokia now.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Which musical note is the most annoying?",
+    "category": "MUSIC"
+  },
+  {
+    "content": "I can quickly teach you magnetism, it's ferroly simple.",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "What do you call someone who's always energetic with puns?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Your runny nose snot my problem.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Endless music is the best, I'd rate it 24/7.",
+    "category": "OTHER"
+  },
+  {
+    "content": "There's something wrong with my left hand, it doesn't seem right.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Jokes about skeletons are so Humerus.",
+    "category": "BIO"
+  },
+  {
+    "content": "Units of acceleration for an osilating object? - Meters per secant squared.",
+    "category": "MATH/PHYSICS"
+  },
+  {
+    "content": "Your algebra skills is x-celellent, you should try out for the X Factor.",
+    "category": "MATH"
+  },
+  {
+    "content": "Dimonds are rare, so if you find any, seldom to me.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I know why I always lose my best erasers, they leave no trace the last time I've seen them.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Has anyone seen this horse?",
+    "category": "OTHER"
+  },
+  {
+    "content": "A chemistry scholar got his pHDegree.",
+    "category": "CHEM"
+  },
+  {
+    "content": "The speed limit of the high way is 420 km/hr.",
+    "category": "OTHER"
+  },
+  {
+    "content": "You find Vectors hard? I find them very straight forward.",
+    "category": "MATH"
+  },
+  {
+    "content": "You copied my beat without my permission! That's plagiarhytm.",
+    "category": "MUSIC"
+  },
+  {
+    "content": "Cosine law has no ambiguous case, this is where it outSines the other laws.",
+    "category": "MATH"
+  },
+  {
+    "content": "Don't listen to Drake's music when driving, it's illegal to Drake and drive.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Once a pun a time, Jackie was born.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I searched up 'Finding Nemo' on Netflix, it said 'No results were found.'",
+    "category": "OTHER"
+  },
+  {
+    "content": "Unintended or Punintended? That is the question.",
+    "category": "OTHER/SHAKESPEARE"
+  },
+  {
+    "content": "Why can't a table stand on two legs?",
+    "category": "OTHER"
+  },
+  {
+    "content": "What if Einstein's theory of Relativity was wrong?",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Get thee to a nunnery! Sorry, no offence.",
+    "category": "SHAKESPEARE"
+  },
+  {
+    "content": "What's a Horatio?",
+    "category": "SHAKESPEARE"
+  },
+  {
+    "content": "Hip hip...HORATIO!",
+    "category": "SHAKESPEARE"
+  },
+  {
+    "content": "Microwave foods are not safe for wok.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Sorry, parallel lines don't meet our requirements.",
+    "category": "MATH"
+  },
+  {
+    "content": "What do you major in?",
+    "category": "MUSIC"
+  },
+  {
+    "content": "Though the CCC be madness, yet there is method in ’t.",
+    "category": "COMP-SCI/SHAKESPEARE"
+  },
+  {
+    "content": "Ikea book shelves don't have instructions...",
+    "category": "OTHER"
+  },
+  {
+    "content": "My friend is a cannibal, she likes eating raw men.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Santa is here to give everyone drinks, HOH HOH HOH!",
+    "category": "OTHER"
+  },
+  {
+    "content": "I am Chinese and I am cheap, why? Because I'm made in China.",
+    "category": "OTHER"
+  },
+  {
+    "content": "The sin law lies, and lying is a sin in many religions.",
+    "category": "OTHER"
+  },
+  {
+    "content": "When your comp sci program does not work, it becomes comp sigh.",
+    "category": "COMP-SCI"
+  },
+  {
+    "content": "Black guys are the best magicians because they go poof after they become fathers.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Word used to describe the frequency of puns? Apundance.",
+    "category": "OTHER"
+  },
+  {
+    "content": "We learned about the element iron today, it was ferroly simple.",
+    "category": "CHEM"
+  },
+  {
+    "content": "Butanal is a pain is the ass to name.",
+    "category": "CHEM"
+  },
+  {
+    "content": "We need a river of unlimited beer...R-OH R-OH R-OH your boat, gently down the stream.",
+    "category": "CHEM"
+  },
+  {
+    "content": "Unit for measuring the loudness of an electric guitar? Amps.",
+    "category": "PHYSICS/MUSIC"
+  },
+  {
+    "content": "I'm bringing beer to school, it's a quite a whisky move.",
+    "category": "OTHER"
+  },
+  {
+    "content": "You are using if statements?",
+    "category": "COMP"
+  },
+  {
+    "content": "Alkane like a wrecking ball.",
+    "category": "CHEM"
+  },
+  {
+    "content": "I got a few matrix up my sleeves.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I forgot how to name Esters...OATE I REMEMEBER!",
+    "category": "CHEM"
+  },
+  {
+    "content": "What's a dog's favourite instrument?",
+    "category": "MUSIC"
+  },
+  {
+    "content": "Jackie of all trades, master of pun.",
+    "category": "OTHER"
+  },
+  {
+    "content": "How do you ask a statistician out?",
+    "category": "MATH"
+  },
+  {
+    "content": "Some chess pieces are always looked down upawn.",
+    "category": "OTHER"
+  },
+  {
+    "content": "My favourite Green Day song? 21 Puns.",
+    "category": "MUSIC"
+  },
+  {
+    "content": "The only things that are right on your test are the corners!",
+    "category": "MATH"
+  },
+  {
+    "content": "Learning about the 3rd dimension today in math really stood out to me.",
+    "category": "MATH"
+  },
+  {
+    "content": "Taste of Asia is a cruel place, there's public roasting everywhere.",
+    "category": "OTHER"
+  },
+  {
+    "content": "I showed my crew how to make the invisible suit many times. I thought I made myself clear but they still don't see what I did.",
+    "category": "OTHER"
+  },
+  {
+    "content": "What do you call an immigrant zombie?",
+    "category": "OTHER"
+  },
+  {
+    "content": "Please don't shoot, I pun in peace.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Why do athletes get cups?",
+    "category": "OTHER"
+  },
+  {
+    "content": "What do you call a fake trophy?",
+    "category": "OTHER"
+  },
+  {
+    "content": "We missed the storm, it went right over our heads.",
+    "category": "OTHER"
+  },
+  {
+    "content": "What's so great about math commercials?",
+    "category": "MATH"
+  },
+  {
+    "content": "You and I should be together.",
+    "category": "OTHER"
+  },
+  {
+    "content": "Upon hearing that the world is going to end the next day, people are running like there's no tomorrow.",
+    "category": "OTHER"
+  },
+  {
+    "content": "My dad left the cooler in our dorm... I guess our dorm just got a little cooler",
+    "category": "OTHER"
+  },
+  {
+    "content": "My friend skipped his lecture on Integrals, so I summed it up in one line for him",
+    "category": "MATH"
+  },
+  {
+    "content": "My friend fell off of a cliff!",
+    "category": "PHYSICS"
+  },
+  {
+    "content": "Let's do a fundraiser for a new microphone, our voices must be heard.",
+    "category": "OTHER"
+  },
+  {
+    "content": "My friend subtracted his numbers in the wrong order, it makes a huge difference!",
+    "category": "MATH"
+  }
+]
