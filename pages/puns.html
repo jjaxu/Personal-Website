@@ -36,9 +36,8 @@
       cache: true,
       success: function (data) {
         var puns = [];
-        console.log(data);
-        $(data.puns).each(function (index, value) {
-          puns.push('<span>' + value + '</span>');
+        $(data).each(function (index, value) {
+          puns.push('<p class="lead">' + value.content + "(" + value.category + ")" + '</p>');
         });
         $(".punList").html(puns.join(""));
       },
@@ -47,11 +46,13 @@
       }
     });
   </script>
-  =====
-  <div class="punList">
-    "LOL"
+
+  <div class="row">
+    <div class="col-sm-10 col-sm-offset-1">
+      <div class="punList"></div>
+    </div>
   </div>
-  =======
+  <!--
   <p class="lead"> 1."I Amp Currently studying for tomorrow's test on electricity." <span class="label label-success">PHYSICS x3</span></p>
   <p class="lead"> 2."Circular motion is a tough unit, I'm not getting anywhere even after 3 hours of studying." <span class="label label-success">PHYSICS</span></p>
   <p class="lead"> 3."I tried teaching my brother fractions today, he couldn't understand Half of what I was saying" <span class="label label-primary">MATH</span></p>
@@ -72,6 +73,7 @@
   <p class="lead"> 18."How does data move around in a computer? With the Universal Serial Bus." (COMP SCI)</p>
   <p class="lead"> 19."If you work with a partner in biology class, don't they become your Life partner?" (BIO)</p>
   <p class="lead"> 20."I couldn't understand the question!" "Are you sure you didn't Ms.Reid the question?" (INSIDE JOKE BIO)</p>
+-->
 <!--
   <div class="row pun_imgs">
     <figure class="pun_img col-sm-4">
