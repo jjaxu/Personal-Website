@@ -279,12 +279,11 @@ a > .fa:hover {
 
 div.gallery {
   margin: 5px;
-  border: 1px solid #ccc;
   float: left;
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
+  border: 1px solid #777;
 }
 
 div.gallery {
@@ -292,13 +291,13 @@ div.gallery {
 }
 
 div.gallery img {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 
 div.desc {
-    padding: 4px;
-    text-align: center;
+  padding: 4px;
+  text-align: center;
 }
 
 .grid-align {
