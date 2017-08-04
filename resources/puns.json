@@ -17,7 +17,7 @@
   },
   {
     "content": "What do you call a good program? An .execellent program.",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
     "content": "Take Note of the accidentals in this section, it's quite tricky.",
@@ -29,19 +29,19 @@
   },
   {
     "content": "I have Terable news, my computer Ram out of memory.",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
     "content": "The chem test was brutal. The teacher showed absolutely no Enthalpy.",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "Your balance has been Reduced due to the Charges placed on your account.",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "There are a Variety of theories on Meiosis.",
-    "category": "BIO"
+    "category": "BIOLOGY"
   },
   {
     "content": "You took Olive my good jokes about Vegetables!",
@@ -49,11 +49,11 @@
   },
   {
     "content": "Don't you just want to pour 12M HCl on him so that he Dissociates for good?",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "Too much programming has made me C-sick.",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
     "content": "Being a neutrino is tough, they go through so much in life.",
@@ -61,18 +61,18 @@
   },
   {
     "content": "How does data move around in a computer? With the Universal Serial Bus.",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
     "content": "If you work with a partner in biology class, don't they become your Life partner?",
-    "category": "BIO"
+    "category": "BIOLOGY"
   },
   {
     "content": "Sometimes I just don't know what I'm thinking, my head has a mind of its own...",
     "category": "OTHER"
   },
   {
-    "content": "What does a percussionist on drugs say?",
+    "content": "What does a percussionist on drugs say? Where did my Bongo?",
     "category": "MUSIC"
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "content": "I had a test on explosive chemicals today, Bombed it",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "I love kinematics graphs, I'm really good a-t them.",
@@ -93,7 +93,7 @@
   },
   {
     "content": "My strict chem teacher want me to make a molecular model, I just don't have the Balls to do it.",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "I will be natural as ln as you are with me.",
@@ -105,10 +105,10 @@
   },
   {
     "content": "I hate decimals, they just don't Float in my boat.",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
-    "content": "What's the similarity between a$$holes and asymptotes?",
+    "content": "What's the similarity between a$$holes and asymptotes? You will never be able to meet what they want.",
     "category": "MATH"
   },
   {
@@ -124,11 +124,11 @@
     "category": "MATH"
   },
   {
-    "content": "How many questions did you get on the geography test for Canada?",
+    "content": "How many questions did you get on the geography test for Canada? I got Nunavut.",
     "category": "GEO"
   },
   {
-    "content": "How was your algebra test?",
+    "content": "How was your algebra test? I did x-ceptionally well.",
     "category": "MATH"
   },
   {
@@ -140,7 +140,7 @@
     "category": "PHYSICS"
   },
   {
-    "content": "How do chemists see in the dark?",
+    "content": "How do chemists see in the dark? With Electro-lights (Electrolytes).",
     "category": "Electrolytes)."
   },
   {
@@ -148,15 +148,15 @@
     "category": "MUSIC"
   },
   {
-    "content": "Did you like the lesson on Fungi?",
-    "category": "BIO"
+    "content": "Did you like the lesson on Fungi? I'm Lichen it so far.",
+    "category": "BIOLOGY"
   },
   {
     "content": "We had a geometry test today, everybody got Rect.",
     "category": "MATH"
   },
   {
-    "content": "Apparently there's some Korean band named f(x).",
+    "content": "Apparently there's some Korean band named f(x). So? No f(x) given.",
     "category": "x)."
   },
   {
@@ -236,23 +236,23 @@
     "category": "MATH"
   },
   {
-    "content": "You're are playing too loud!",
+    "content": "You're are playing too loud! No, I'm playing Piano.",
     "category": "MUSIC"
   },
   {
-    "content": "What do you call the act of stealing saxophones?",
+    "content": "What do you call the act of stealing saxophones? Grand theft Auto.",
     "category": "MUSIC"
   },
   {
-    "content": "Help me make a nuclear reactor.",
+    "content": "Help me make a nuclear reactor. Sorry, no CANDU.",
     "category": "PHYSICS"
   },
   {
     "content": "We learned about cellular respiration today, I didn't know my phone needed to breathe...",
-    "category": "BIO"
+    "category": "BIOLOGY"
   },
   {
-    "content": "What do you call an identity that can't be solved?",
+    "content": "What do you call an identity that can't be solved? A Tricknometric identity.",
     "category": "MATH"
   },
   {
@@ -260,11 +260,11 @@
     "category": "OTHER"
   },
   {
-    "content": "How do ducks solve math problems?",
+    "content": "How do ducks solve math problems? Using the Quackdratic formula.",
     "category": "MATH"
   },
   {
-    "content": "What's the difference between a student and a camera?",
+    "content": "What's the difference between a student and a camera? A camera can Focus.",
     "category": "OTHER"
   },
   {
@@ -273,18 +273,18 @@
   },
   {
     "content": "When prom comes, most people Prompose; as a programmer, I Prompt.",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
     "content": "How do ducks hack computers? They Quack the code.",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
     "content": "I love to try the Van de Graaff generator but I dont have the Balls to do it.",
     "category": "SCIENCE"
   },
   {
-    "content": "What do you call someone who can't afford to go skating?",
+    "content": "What do you call someone who can't afford to go skating? A cheapSkate.",
     "category": "OTHER"
   },
   {
@@ -292,7 +292,7 @@
     "category": "OTHER"
   },
   {
-    "content": "What do you do when your hands are frozen?",
+    "content": "What do you do when your hands are frozen? You let it go.",
     "category": "OTHER"
   },
   {
@@ -312,11 +312,11 @@
     "category": "PHYSICS"
   },
   {
-    "content": "Why do you hate using Straws?",
+    "content": "Why do you hate using Straws? Because they Suck.",
     "category": "OTHER"
   },
   {
-    "content": "How was the Lamb chops?",
+    "content": "How was the Lamb chops? Meh.",
     "category": "Other"
   },
   {
@@ -328,7 +328,7 @@
     "category": "MATH"
   },
   {
-    "content": "What's an elephant's favourite instrument?",
+    "content": "What's an elephant's favourite instrument? A Trunkpet.",
     "category": "MUSIC"
   },
   {
@@ -336,19 +336,19 @@
     "category": "PHYSICS"
   },
   {
-    "content": "Why are drummers always the ones that keep time?",
+    "content": "Why are drummers always the ones that keep time? Because they are UnBeatable.",
     "category": "MUSIC"
   },
   {
-    "content": "What do you call a snail in space?",
-    "category": "BIO"
+    "content": "What do you call a snail in space? A Gastronaut.",
+    "category": "BIOLOGY"
   },
   {
-    "content": "What do you call a snail not in space?",
-    "category": "BIO"
+    "content": "What do you call a snail not in space? A GastroNOT.",
+    "category": "BIOLOGY"
   },
   {
-    "content": "What does the Fox say?",
+    "content": "What does the Fox say? I don't care, no Fox given.",
     "category": "OTHER"
   },
   {
@@ -392,7 +392,7 @@
     "category": "OTHER"
   },
   {
-    "content": "Nice house!",
+    "content": "Nice house! Thanks, don't Mansion it.",
     "category": "OTHER"
   },
   {
@@ -424,15 +424,15 @@
     "category": "OTHER"
   },
   {
-    "content": "What instrument does a pool player play?",
+    "content": "What instrument does a pool player play? A cue stick guitar. It took me a Billiard years to come up with this.",
     "category": "MUSIC/OTHER"
   },
   {
-    "content": "What do musicians say when they mess up a note?",
+    "content": "What do musicians say when they mess up a note? Son of a Pitch.",
     "category": "MUSIC"
   },
   {
-    "content": "What do you all a train that sneezes?",
+    "content": "What do you all a train that sneezes? Achoo-choo train.",
     "category": "OTHER"
   },
   {
@@ -448,7 +448,7 @@
     "category": "MATH"
   },
   {
-    "content": "Are we going to have a white Christmas this year?",
+    "content": "Are we going to have a white Christmas this year? Hail no!",
     "category": "OTHER"
   },
   {
@@ -460,7 +460,7 @@
     "category": "OTHER"
   },
   {
-    "content": "What can you conclude upon seeing someone crying in math class?",
+    "content": "What can you conclude upon seeing someone crying in math class? They did too much Sobtraction.",
     "category": "MATH"
   },
   {
@@ -468,7 +468,7 @@
     "category": "MATH"
   },
   {
-    "content": "How did you get so many bruises just from shopping?!",
+    "content": "How did you get so many bruises just from shopping?! Because it's Boxing day!",
     "category": "OTHER"
   },
   {
@@ -476,19 +476,19 @@
     "category": "OTHER"
   },
   {
-    "content": "Ahh I knew 'Frog' wasn't the right answer!",
+    "content": "Ahh I knew 'Frog' wasn't the right answer! Toad you so.",
     "category": "OTHER"
   },
   {
-    "content": "Why do lumberjacks always seem annoyed?",
+    "content": "Why do lumberjacks always seem annoyed? Because people Axe them too many questions.",
     "category": "OTHER"
   },
   {
-    "content": "Oh no! The pendulum broke!",
+    "content": "Oh no! The pendulum broke! Damp it!",
     "category": "PHYSICS"
   },
   {
-    "content": "You made my friend disappear!!!",
+    "content": "You made my friend disappear!!! I'm Sorcery about that.",
     "category": "OTHER"
   },
   {
@@ -524,7 +524,7 @@
     "category": "OTHER"
   },
   {
-    "content": "Why don't you like doing assignments online?",
+    "content": "Why don't you like doing assignments online? Sorry, just not my Type.",
     "category": "OTHER"
   },
   {
@@ -533,10 +533,10 @@
   },
   {
     "content": "We learned about Abstract Data Types today, at the end our teacher asked us if we had any Queuestions",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
-    "content": "I'm pregnant...",
+    "content": "I'm pregnant... What?! You've got to be Kid-in-me!",
     "category": "OTHER"
   },
   {
@@ -548,7 +548,7 @@
     "category": "PHYSICS/MUSIC"
   },
   {
-    "content": "Why do photons never notice me?",
+    "content": "Why do photons never notice me? They got no Time.",
     "category": "PHYSICS"
   },
   {
@@ -560,7 +560,7 @@
     "category": "OTHER"
   },
   {
-    "content": "We got some positive feedback for your sound quality!",
+    "content": "We got some positive feedback for your sound quality! How's that a good thing?!",
     "category": "OTHER"
   },
   {
@@ -573,7 +573,7 @@
   },
   {
     "content": "Did you see the video on the new strand of bacteria they discovered? It's Spreading across the web!",
-    "category": "BIO"
+    "category": "BIOLOGY"
   },
   {
     "content": "I hate the floor function, it lets me Down every time.",
@@ -597,7 +597,7 @@
   },
   {
     "content": "Do not get close to the angry computer! It will Byte!",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
     "content": "When my friend makes a pun on light - 'Eye see what you did there.'",
@@ -608,7 +608,7 @@
     "category": "OTHER"
   },
   {
-    "content": "Can I borrow you hammer?",
+    "content": "Can I borrow you hammer? Sure, knock yourself out.",
     "category": "OTHER"
   },
   {
@@ -616,8 +616,8 @@
     "category": "OTHER"
   },
   {
-    "content": "What do people learn in bio class?",
-    "category": "BIO"
+    "content": "What do people learn in bio class? The endocrying system",
+    "category": "BIOLOGY"
   },
   {
     "content": "I went to see this drama production on puns today, it was a play on words.",
@@ -640,7 +640,7 @@
     "category": "OTHER"
   },
   {
-    "content": "What's your favourite sport?",
+    "content": "What's your favourite sport? Ping-Pun.",
     "category": "OTHER"
   },
   {
@@ -652,7 +652,7 @@
     "category": "PHYSICS"
   },
   {
-    "content": "Physics Q&A: A student at rest sees his friend runs at 5m/s...",
+    "content": "Physics Q&A: A student at rest sees his friend runs at 5m/s... If the student is resting, how can he see?!",
     "category": "PHYSICS"
   },
   {
@@ -664,11 +664,11 @@
     "category": "PHYSICS"
   },
   {
-    "content": "Mr.Schrödinger, how would you like it? Crispy or grilled?",
+    "content": "Mr.Schrödinger, how would you like it? Crispy or grilled? Why not both?",
     "category": "PHYSICS"
   },
   {
-    "content": "Why do you drink so much like your dad?",
+    "content": "Why do you drink so much like your dad? I guess it Rums in the family.",
     "category": "OTHER"
   },
   {
@@ -684,11 +684,11 @@
     "category": "MATH"
   },
   {
-    "content": "Why are photography test questions always out of 3?",
+    "content": "Why are photography test questions always out of 3? Because it's the rule of 3rds.",
     "category": "OTHER"
   },
   {
-    "content": "What's your High score?",
+    "content": "What's your High score? 420 points.",
     "category": "OTHER"
   },
   {
@@ -700,7 +700,7 @@
     "category": "OTHER"
   },
   {
-    "content": "How do you calculate the net force on a ship?",
+    "content": "How do you calculate the net force on a ship? Mast times acceleration.",
     "category": "PHYSICS"
   },
   {
@@ -720,11 +720,11 @@
     "category": "OTHER"
   },
   {
-    "content": "Did you hear Bruno Mars's song Grenade?",
+    "content": "Did you hear Bruno Mars's song Grenade? Yea, it Blows.",
     "category": "OTHER"
   },
   {
-    "content": "What do you call those explained forces in non-inertial frames of references?",
+    "content": "What do you call those explained forces in non-inertial frames of references? Faketicious forces.",
     "category": "PHYSICS"
   },
   {
@@ -732,15 +732,15 @@
     "category": "OTHER"
   },
   {
-    "content": "Why is your whole family bald?",
+    "content": "Why is your whole family bald? InHairitance.",
     "category": "OTHER"
   },
   {
-    "content": "What country do you find the most sheep in?",
+    "content": "What country do you find the most sheep in? Amehrica.",
     "category": "OTHER"
   },
   {
-    "content": "What is the similarity between women and Pi?",
+    "content": "What is the similarity between women and Pi? They both go on and on.",
     "category": "OTHER"
   },
   {
@@ -784,8 +784,8 @@
     "category": "OTHER"
   },
   {
-    "content": "How does Iodine ask Oxygen out?",
-    "category": "CHEM"
+    "content": "How does Iodine ask Oxygen out? Iodate you.",
+    "category": "CHEMISTRY"
   },
   {
     "content": "When I tried to shop for a Ford online, it said 'Ford O Ford error, car not found'",
@@ -813,14 +813,14 @@
   },
   {
     "content": "IOnly use standard input and output.",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
     "content": "Brain surgery is only done on someone who's every open minded.",
     "category": "OTHER"
   },
   {
-    "content": "I wasn't here for music class today, were there any notes?",
+    "content": "I wasn't here for music class today, were there any notes? Yes... A LOT.",
     "category": "MUSIC"
   },
   {
@@ -829,11 +829,11 @@
   },
   {
     "content": "Programmers never get good marks cause they always get C or C+ on their tests.",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
     "content": "Programmers' favourite food? C food.",
-    "category": "COMP"
+    "category": "COMP-SCI"
   },
   {
     "content": "I like working with glue because it always sticks to my plan.",
@@ -857,23 +857,23 @@
   },
   {
     "content": "I lost my DNA, it's now DNE.",
-    "category": "BIO"
+    "category": "BIOLOGY"
   },
   {
-    "content": "What's a black board's favourite snack?",
+    "content": "What's a black board's favourite snack? Chalkolate.",
     "category": "OTHER"
   },
   {
-    "content": "Where do cats eat?",
+    "content": "Where do cats eat? In the Catfeteria.",
     "category": "OTHER"
   },
   {
-    "content": "My philosophy idea failed...",
+    "content": "My philosophy idea failed... It's ok, it's the thought that counts.",
     "category": "PHILOSOPHY"
   },
   {
     "content": "The most common choices on a biology multiple choice test are DNA.",
-    "category": "BIO"
+    "category": "BIOLOGY"
   },
   {
     "content": "While the most common choices on a math multiple choice test are DNE.",
@@ -885,7 +885,7 @@
   },
   {
     "content": "Wanna help me make a nuke? I can't do it without U.",
-    "category": "PHYSICS/CHEM"
+    "category": "PHYSICS/CHEMISTRY"
   },
   {
     "content": "Did you how I managed to escape Iraq? Iran.",
@@ -912,7 +912,7 @@
     "category": "OTHER"
   },
   {
-    "content": "Name an extreme sport.",
+    "content": "Name an extreme sport. Optimization in calculus.",
     "category": "MATH"
   },
   {
@@ -932,7 +932,7 @@
     "category": "MATH"
   },
   {
-    "content": "How did get that robot?",
+    "content": "How did get that robot? I Bot it.",
     "category": "OTHER"
   },
   {
@@ -956,7 +956,7 @@
     "category": "MUSIC"
   },
   {
-    "content": "How wast he movie Shrek?",
+    "content": "How wast he movie Shrek? Meh, so so, mediogre.",
     "category": "OTHER"
   },
   {
@@ -972,7 +972,7 @@
     "category": "MATH"
   },
   {
-    "content": "Weeds are growing uncontrollably in my year.",
+    "content": "Weeds are growing uncontrollably in my year. Bet you never sow that coming.",
     "category": "OTHER"
   },
   {
@@ -980,7 +980,7 @@
     "category": "OTHER"
   },
   {
-    "content": "What's the name of that Pho place we ate at last time?",
+    "content": "What's the name of that Pho place we ate at last time? Uhh... I Pho-got.",
     "category": "OTHER"
   },
   {
@@ -993,14 +993,14 @@
   },
   {
     "content": "Least environmental friendly fuel company? Esso, the combustion release so much Esso 2.",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "The bright light blinded me, how eyeronic.",
     "category": "OTHER"
   },
   {
-    "content": "Why do iPhone users never go to the doctor?",
+    "content": "Why do iPhone users never go to the doctor? Because an Apple a day keeps the doctor away.",
     "category": "OTHER"
   },
   {
@@ -1008,7 +1008,7 @@
     "category": "OTHER"
   },
   {
-    "content": "I almost got shot!",
+    "content": "I almost got shot! Pew, that was close.",
     "category": "OTHER"
   },
   {
@@ -1016,7 +1016,7 @@
     "category": "OTHER"
   },
   {
-    "content": "Which musical note is the most annoying?",
+    "content": "Which musical note is the most annoying? The one that keeps saying 'Pick Mi! Pick Mi!'",
     "category": "MUSIC"
   },
   {
@@ -1024,7 +1024,7 @@
     "category": "PHYSICS"
   },
   {
-    "content": "What do you call someone who's always energetic with puns?",
+    "content": "What do you call someone who's always energetic with puns? A Pungee jumper.",
     "category": "OTHER"
   },
   {
@@ -1041,7 +1041,7 @@
   },
   {
     "content": "Jokes about skeletons are so Humerus.",
-    "category": "BIO"
+    "category": "BIOLOGY"
   },
   {
     "content": "Units of acceleration for an osilating object? - Meters per secant squared.",
@@ -1060,12 +1060,12 @@
     "category": "OTHER"
   },
   {
-    "content": "Has anyone seen this horse?",
+    "content": "Has anyone seen this horse? Neigh.",
     "category": "OTHER"
   },
   {
     "content": "A chemistry scholar got his pHDegree.",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "The speed limit of the high way is 420 km/hr.",
@@ -1100,19 +1100,19 @@
     "category": "OTHER/SHAKESPEARE"
   },
   {
-    "content": "Why can't a table stand on two legs?",
+    "content": "Why can't a table stand on two legs? Because it's Uns-table.",
     "category": "OTHER"
   },
   {
-    "content": "What if Einstein's theory of Relativity was wrong?",
+    "content": "What if Einstein's theory of Relativity was wrong? It's ok, it's the thought that counts.",
     "category": "PHYSICS"
   },
   {
-    "content": "Get thee to a nunnery! Sorry, no offence.",
+    "content": "Get thee to a nunnery! Sorry, no offence. Nun taken.",
     "category": "SHAKESPEARE"
   },
   {
-    "content": "What's a Horatio?",
+    "content": "What's a Horatio? 1:9999",
     "category": "SHAKESPEARE"
   },
   {
@@ -1128,7 +1128,7 @@
     "category": "MATH"
   },
   {
-    "content": "What do you major in?",
+    "content": "What do you major in? Music.",
     "category": "MUSIC"
   },
   {
@@ -1136,7 +1136,7 @@
     "category": "COMP-SCI/SHAKESPEARE"
   },
   {
-    "content": "Ikea book shelves don't have instructions...",
+    "content": "Ikea book shelves don't have instructions... Yea, they are pretty shelf explanatory.",
     "category": "OTHER"
   },
   {
@@ -1169,15 +1169,15 @@
   },
   {
     "content": "We learned about the element iron today, it was ferroly simple.",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "Butanal is a pain is the ass to name.",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "We need a river of unlimited beer...R-OH R-OH R-OH your boat, gently down the stream.",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "Unit for measuring the loudness of an electric guitar? Amps.",
@@ -1188,12 +1188,12 @@
     "category": "OTHER"
   },
   {
-    "content": "You are using if statements?",
-    "category": "COMP"
+    "content": "You are using if statements? Yea, what else?",
+    "category": "COMP-SCI"
   },
   {
     "content": "Alkane like a wrecking ball.",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
     "content": "I got a few matrix up my sleeves.",
@@ -1201,10 +1201,10 @@
   },
   {
     "content": "I forgot how to name Esters...OATE I REMEMEBER!",
-    "category": "CHEM"
+    "category": "CHEMISTRY"
   },
   {
-    "content": "What's a dog's favourite instrument?",
+    "content": "What's a dog's favourite instrument? A trom-bone.",
     "category": "MUSIC"
   },
   {
@@ -1212,7 +1212,7 @@
     "category": "OTHER"
   },
   {
-    "content": "How do you ask a statistician out?",
+    "content": "How do you ask a statistician out? You datum.",
     "category": "MATH"
   },
   {
@@ -1240,7 +1240,7 @@
     "category": "OTHER"
   },
   {
-    "content": "What do you call an immigrant zombie?",
+    "content": "What do you call an immigrant zombie? Flesh off the boat.",
     "category": "OTHER"
   },
   {
@@ -1248,11 +1248,11 @@
     "category": "OTHER"
   },
   {
-    "content": "Why do athletes get cups?",
+    "content": "Why do athletes get cups? Because they are thirsty.",
     "category": "OTHER"
   },
   {
-    "content": "What do you call a fake trophy?",
+    "content": "What do you call a fake trophy? A trollphy.",
     "category": "OTHER"
   },
   {
@@ -1260,11 +1260,11 @@
     "category": "OTHER"
   },
   {
-    "content": "What's so great about math commercials?",
+    "content": "What's so great about math commercials? Well the ADs are big pluses.",
     "category": "MATH"
   },
   {
-    "content": "You and I should be together.",
+    "content": "You and I should be together. Yeah on a keyboard maybe.",
     "category": "OTHER"
   },
   {
@@ -1280,7 +1280,7 @@
     "category": "MATH"
   },
   {
-    "content": "My friend fell off of a cliff!",
+    "content": "My friend fell off of a cliff! Oh, mg!",
     "category": "PHYSICS"
   },
   {

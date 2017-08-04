@@ -10,9 +10,9 @@ def parse(input_file = 'puns_raw.txt', output_file = 'puns_parsed.txt', ignore =
                 except:
                     print(line)
                 content = line.partition('"')[-1].rpartition('"')[0]
-                content.replace('"', '')
+                content = content.replace('"', '')
                 category = line.partition('(')[-1].rpartition(')')[0]
-                parsed.write('"' + str(content).strip() + '"' + csv_separator + str(category).split(" ")[0].strip() + "\n")
+                parsed.write('"' + content.strip() + '"' + csv_separator + str(category).split(" ")[0].strip() + "\n")
             file.close()
         parsed.close()
 
