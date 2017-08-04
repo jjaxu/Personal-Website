@@ -27,7 +27,7 @@
 27."My strict chem teacher want me to make a molecular model, I just don't have the Balls to do it." (CHEMISTRY)
 28."I will be natural as ln as you are with me." (MATH)
 29."I want to drop my assignment on the ground so gravity can so do some of the Work for me." (PHYSICS)
-30."I hate decimals, they just don't Float in my boat." (COMP-SCI)
+30."I hate decimals, they just don't Float my boat." (COMP-SCI)
 31."What's the similarity between a$$holes and asymptotes?" "You will never be able to meet what they want."(MATH)
 32."If you can't play in the band, then Rest in Piece to you." (MUSIC x2)
 33."Now is the Right time to use Pythagorean Theorem."(MATH)
@@ -36,11 +36,11 @@
 36."How was your algebra test?" "I did x-ceptionally well." (MATH)
 37."Math homework is a good x-cercise, I don't know y but it works." (MATH)
 38."If I make physics jokes would you understand the Reference?" (PHYSICS)
-39."How do chemists see in the dark?" "With Electro-lights (Electrolytes)." (CHEMISTRY)
+39."How do chemists see in the dark?" "With Electro-lights." (CHEMISTRY)
 40."Your music jokes are terrible, get Bach to me once you come up with something good." (MUSIC)
 41."Did you like the lesson on Fungi?" "I'm Lichen it so far." (BIOLOGY)
 42."We had a geometry test today, everybody got Rect." (MATH) 10/20/2015
-43."Apparently there's some Korean band named f(x)." "So? No f(x) given." (MATH) 10/20/2015
+43."Apparently there's some Korean band named f[x]." "So? No f[x] given." (MATH) 10/20/2015
 44."I've mastered my logs, now they see me Rolling." (MATH) 10/20/2015
 45."Your jokes are trash, Litterally." (OTHER) 10/21/2015
 46."I was wondering how springs work, then it Hit me." (PHYSICS) 10/23/2015
@@ -49,11 +49,11 @@
 49."A Pop quiz on Hooke's law Jumped on us today." (PHYSICS) 10/26/2015
 50."We are supposed to know the properties of springs but all people think about is summer." (PHYSICS) 10/27/2015
 51."Your bad trig jokes are really getting Repetitive." (MATH) 10/27/2015
-52."I need to do well on trig to show my teacher that I am a Radian-t student." (MATH) 10/28/2015
+52."I need to do well in trig to show my teacher that I am a Radian-t student." (MATH) 10/28/2015
 53."On Halloween, everyone in my math class yelled 'Trig or Treat!'" (MATH) 10/30/2015
 54."The test was long, I didn't have enough time to fini..." (OTHER) 10/30/2015
 55."What was the Circumference? Idk, but it's Around 5 cm." (MATH) 10/30/2015
-56."Put it the on the ground, let µ do all the work." (PHYSICS) 10/30/2015
+56."Just put it on the ground, let µ do all the work." (PHYSICS) 10/30/2015
 57."Everyone in bio should dress up as zombies for Halloween because Ms.Reid killed them all." (BIOLOGY INSIDE JOKE) 10/30/2015
 58."I bombed my vectors test, but my mark still went up... by -5%." (MATH) 11/4/2015
 59."You guys can't be in my team, you're Allies." (OTHER) 11/4/2015
@@ -61,10 +61,10 @@
 61."What's a percussionist's favourite mathematical function? LogaRythms" (MUSIC/MATH) 11/5/2015
 62."I don't like guitar players, they are always so Picky." (MUSIC) 11/5/2015
 63."The Pythagorean identity is ONEderful." (MATH) 11/5/2015
-64."You're are playing too loud!" "No, I'm playing Piano." (MUSIC)11/6/2015
-65."What do you call the act of stealing saxophones?" "Grand theft Auto." (MUSIC) 11/6/2015
+64."You're playing too loud!" "No, I'm playing Piano." (MUSIC)11/6/2015
+65."What do you call the act of stealing saxophones?" "Grand theft Alto." (MUSIC) 11/6/2015
 66."Help me make a nuclear reactor." "Sorry, no CANDU." (PHYSICS) 11/8/2015
-67."We learned about cellular respiration today, I didn't know my phone needed to breathe..." (BIOLOGY) 11/9/2015
+67."We learned about Cellular respiration today, I didn't know my phone needed to breathe..." (BIOLOGY) 11/9/2015
 68."What do you call an identity that can't be solved?" "A Tricknometric identity." (MATH) 11/10/2015
 69."Trudeau is such a player, he has so many people in his Cabinet." (OTHER) 11/10/2015
 70."Reid, ReWrite, Reidmember" (BIOLOGY INSIDE JOKE) 11/12/2015
@@ -84,7 +84,7 @@
 84."I was trying to teach my brother Trigonometric graphs but he Phased out on me." (MATH) 11/25/2015
 85."We finally started learning Special Relativity, it's about Time!" (PHYSICS) 11/25/2015
 86."Why do you hate using Straws?" "Because they Suck." (OTHER) 11/26/2015
-87."How was the Lamb chops?" "Meh." (Other) 11/26/2015
+87."How were the Lamb chops?" "Meh." (Other) 11/26/2015
 88."I like Linear systems, they are very Straight forward." (MATH) 11/29/2015
 89."You know those John Cena vids? I bet you did not Cena coming." (OTHER) 11/30/2015
 90."When two good students work together in math class, they become 2good." (MATH) 11/30/2015

@@ -24,7 +24,7 @@
     "category": "MUSIC"
   },
   {
-    "content": "Teach me trig, sin[pi]!",
+    "content": "Teach me trig, sin(π)!",
     "category": "MATH"
   },
   {
@@ -104,7 +104,7 @@
     "category": "PHYSICS"
   },
   {
-    "content": "I hate decimals, they just don't Float in my boat.",
+    "content": "I hate decimals, they just don't Float my boat.",
     "category": "COMP-SCI"
   },
   {
@@ -140,8 +140,8 @@
     "category": "PHYSICS"
   },
   {
-    "content": "How do chemists see in the dark? With Electro-lights (Electrolytes).",
-    "category": "Electrolytes)."
+    "content": "How do chemists see in the dark? With Electro-lights.",
+    "category": "CHEMISTRY"
   },
   {
     "content": "Your music jokes are terrible, get Bach to me once you come up with something good.",
@@ -157,7 +157,7 @@
   },
   {
     "content": "Apparently there's some Korean band named f(x). So? No f(x) given.",
-    "category": "x)."
+    "category": "MATH"
   },
   {
     "content": "I've mastered my logs, now they see me Rolling.",
@@ -192,7 +192,7 @@
     "category": "MATH"
   },
   {
-    "content": "I need to do well on trig to show my teacher that I am a Radian-t student.",
+    "content": "I need to do well in trig to show my teacher that I am a Radian-t student.",
     "category": "MATH"
   },
   {
@@ -208,7 +208,7 @@
     "category": "MATH"
   },
   {
-    "content": "Put it the on the ground, let µ do all the work.",
+    "content": "Just put it on the ground, let µ do all the work.",
     "category": "PHYSICS"
   },
   {
@@ -240,7 +240,7 @@
     "category": "MUSIC"
   },
   {
-    "content": "What do you call the act of stealing saxophones? Grand theft Auto.",
+    "content": "What do you call the act of stealing saxophones? Grand theft Alto.",
     "category": "MUSIC"
   },
   {
@@ -248,7 +248,7 @@
     "category": "PHYSICS"
   },
   {
-    "content": "We learned about cellular respiration today, I didn't know my phone needed to breathe...",
+    "content": "We learned about Cellular respiration today, I didn't know my phone needed to breathe...",
     "category": "BIOLOGY"
   },
   {
@@ -316,7 +316,7 @@
     "category": "OTHER"
   },
   {
-    "content": "How was the Lamb chops? Meh.",
+    "content": "How were the Lamb chops? Meh.",
     "category": "Other"
   },
   {
