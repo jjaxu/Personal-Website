@@ -5,7 +5,7 @@
 5."What do you call a good program? An .execellent program." (COMP-SCI)
 6."Take Note of the accidentals in this section, it's quite tricky." (MUSIC)
 7."I have to be Onix with you, I can't Pika-ture life without Chu." (OTHER x3)
-8."Teach me trig, sin[pi]!" (MATH)
+8."Teach me trig, sin[π]!" (MATH)
 9."I have Terable news, my computer Ram out of memory." (COMP-SCI x2)
 10."The chem test was brutal. The teacher showed absolutely no Enthalpy." (CHEMISTRY)
 11."Your balance has been Reduced due to the Charges placed on your account." (CHEMISTRY)
@@ -24,7 +24,7 @@
 24."If you run out of oxygen while scuba diving, you're in Deep trouble"(OTHER)
 25."I had a test on explosive chemicals today, Bombed it" (CHEMISTRY)
 26."I love kinematics graphs, I'm really good a-t them."(PHYSICS)
-27."My strict chem teacher want me to make a molecular model, I just don't have the Balls to do it." (CHEMISTRY)
+27."My chem teacher want me to make a molecular model, But I don't have the Balls to do it." (CHEMISTRY)
 28."I will be natural as ln as you are with me." (MATH)
 29."I want to drop my assignment on the ground so gravity can so do some of the Work for me." (PHYSICS)
 30."I hate decimals, they just don't Float my boat." (COMP-SCI)
@@ -87,7 +87,7 @@
 87."How were the Lamb chops?" "Meh." (Other) 11/26/2015
 88."I like Linear systems, they are very Straight forward." (MATH) 11/29/2015
 89."You know those John Cena vids? I bet you did not Cena coming." (OTHER) 11/30/2015
-90."When two good students work together in math class, they become 2good." (MATH) 11/30/2015
+90."When two good math students work together, they become 2good." (MATH) 11/30/2015
 91."What's an elephant's favourite instrument?" "A Trunkpet." (MUSIC) 12/1/2015
 92."We had a lesson on Torque today, my friend seemed very Crossed." (PHYSICS) 12/1/2015
 93."Why are drummers always the ones that keep time?" "Because they are UnBeatable." (MUSIC) 12/1/2015
@@ -114,8 +114,8 @@
 114."I only carry small flashlights are they are Light weight." (OTHER) 12/14/2015
 115."The Optics test Seemed easy, but it was just an Illusion." (PHYSICS x2) 12/15/2015
 116."Pop exploding is an example of a Fizzical change." (PHYSICS) 12/17/2015
-117."Let's play a Star Wars song! It's quite Dualble." (OTHER) 12/18/2015
-118."What instrument does a pool player play?" "A cue stick guitar." "It took me a Billiard years to come up with this." * (MUSIC/OTHER x2) 12/19/2015
+117."Let's play a Star Wars song! It's quite Duelble." (OTHER) 12/18/2015
+118."What instrument does a pool player play?" "A cue stick guitar." (MUSIC) 12/19/2015
 119."What do musicians say when they mess up a note?" "Son of a Pitch." (MUSIC) 12/19/2015
 120."What do you all a train that sneezes?" "Achoo-choo train." (OTHER) 12/22/2015
 121."Bomb defusing is so intense, it comes down to the Wire every time." (OTHER) 12/23/2015
@@ -141,7 +141,7 @@
 141."Unit for measuring the speed of puns? 1 Pz [Punz] = 1 Pun / day." (OTHER) 12/31/2015
 142."Sorry, broken scissors just won't Cut it for me." (OTHER) 1/2/2016
 143."I never use my vacuum because it Sucks." (OTHER) 1/2/2016
-144."I feel attractive being a lab advisor because when I enter the room, all the computers gets turned on." (OTHER) 1/4/2016
+144."I'm a attractive lab monitor because when I enter the room, all the computers gets turned on." (OTHER) 1/4/2016
 145."Why don't you like doing assignments online?" "Sorry, just not my Type." (OTHER) 1/5/2016
 146."I went to shop for a boat today, it was on Sail!" (OTHER) 1/5/2016
 147."We learned about Abstract Data Types today, at the end our teacher asked us if we had any Queuestions" (COMP-SCI) 1/5/2016
@@ -175,9 +175,9 @@
 175."I'm sorry! Please resPund to me!" (OTHER) 1/23/2016
 176."What's your favourite sport?" "Ping-Pun." (OTHER) 1/23/2016
 177."My jokes and puns kill people, I guess they're too Pungent." (OTHER) 1/23/2016
-178."Confusing physics question: A high speed boat is moving at sea at c, find it's colour." (PHYSICS) 1/24/2016
+178."Confusing physics question: A high speed boat is moving at sea at c, what do you see?" (PHYSICS) 1/24/2016
 179."Physics Q&A: A student at rest sees his friend runs at 5m/s..." "If the student is resting, how can he see?!" (PHYSICS) 1/24/2016
-180."He said he would only ride the car for 5 minutes, but he got carried away." (OTHER) 1/26/2016
+180."He said the car ride only lasts for 5 minutes, but he got carried away." (OTHER) 1/26/2016
 181."E = mc² is a weapon of Mass destruction." (PHYSICS) 1/26/2016
 182."Mr.Schrödinger, how would you like it? Crispy or grilled?" "Why not both?" (PHYSICS) 1/26/2016
 183."I hate computer class, after this year, I'm saying Bi to it forever!" (COMP-SCI) 1/26/2016
@@ -304,7 +304,7 @@
 304."We are writing an essay on spells, the teacher said we need both primary and secondary sorceries." (OTHER) 4/9/2016
 305."Dimonds are rare, so if you find any, seldom to me." (OTHER) 4/14/2016
 306."Math without the third dimension is just two plane." (MATH) 4/15/2016
-307."I know why I always lose my best erasers, they leave no trace the last time I've seen them." (OTHER) 4/16/2016
+307."I always lose my best erasers beacause they leave no traces behind." (OTHER) 4/16/2016
 308."Has anyone seen this horse?" "Neigh." (OTHER) 4/17/2016
 309."A chemistry scholar got his pHDegree." (CHEMISTRY) 4/19/2016
 310."The speed limit of the high way is 420 km/hr." (OTHER) 4/20/2016
@@ -332,7 +332,7 @@
 331."If ginger able is made out of real ginger, then what is juice made out of?" (OTHER) 5/13/2016
 332."Santa is here to give everyone drinks, HOH HOH HOH!" (OTHER) 5/15/2016
 333."I am Chinese and I am cheap, why? Because I'm made in China." (OTHER) 5/18/2016
-334."The sin law lies, and lying is a sin in many religions." (OTHER) 5/20/2016
+334."The sin law lies, and lying is a sin." (OTHER) 5/20/2016
 336."When your comp sci program does not work, it becomes comp sigh." (COMP-SCI) 5/25/2016
 337."Today we are learning about water and its physical and chemical properties, let's dive straight into it." (CHEMISTRY) 5/26/2016
 338."Black guys are the best magicians because they go poof after they become fathers." (OTHER) 5/27/2016
@@ -365,7 +365,7 @@
 365."What do you call a fake trophy?" "A trollphy." (OTHER) 6/30/2016
 367."We missed the storm, it went right over our heads." (OTHER) 7/15/2016
 368."What's so great about math commercials?" "Well the ADs are big pluses." (MATH) 7/27/2016
-369."You and I should be together." "Yeah on a keyboard maybe." (OTHER) 8/16/2016
+369."U and I should be together." "Yeah on a keyboard maybe." (OTHER) 8/16/2016
 370."Upon hearing that the world is going to end the next day, people are running like there's no tomorrow." (OTHER) 9/18/2016
 371."My dad left the cooler in our dorm... I guess our dorm just got a little cooler" (OTHER) 10/14/2016
 372."My friend skipped his lecture on Integrals, so I summed it up in one line for him" (MATH) 10/14/2016
