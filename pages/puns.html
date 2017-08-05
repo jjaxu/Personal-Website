@@ -5,11 +5,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel=stylesheet type="text/css" href="/style.css">
+  <link rel="stylesheet" href="/lightbox.css">
   <link rel="shortcut icon" type="image/png" href="/favicon.png">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://use.fontawesome.com/c0a8e7ab04.js"></script>
   <script src="/scripts/load_components.js"></script>
   <script src="/scripts/puns_script.js"></script>
+  <script src="/scripts/lightbox.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 
@@ -35,7 +37,7 @@
         <li role="presentation"><a href="#cs" aria-controls="cs" role="tab" data-toggle="tab">Computer Science</a></li>
         <li role="presentation"><a href="#music" aria-controls="music" role="tab" data-toggle="tab">Music</a></li>
         <li role="presentation"><a href="#other" aria-controls="other" role="tab" data-toggle="tab">Other</a></li>
-        <li role="presentation"><a class="inactive" href="#picPun" aria-controls="picPun" role="tab" data-toggle="tab">Picture Puns</a></li>
+        <li role="presentation"><a href="#picPun" aria-controls="picPun" role="tab" data-toggle="tab">Picture Puns</a></li>
       </ul>
       <!-- Tab Panes -->
       <div class="tab-content">
@@ -44,49 +46,30 @@
         <div class="top-margins tab-pane fade" id="cs"><ol id="list_cs"></ol></div>
         <div class="top-margins tab-pane fade" id="music"><ol id="list_music"></ol></div>
         <div class="top-margins tab-pane fade" id="other"><ol id="list_other"></ol></div>
+        <div class="top-margins tab-pane fade" id="picPun">
+          <div class="row text-left" style="display: inline-flex; flex-wrap: wrap;">
+                <figure class="hover-zoom col-sm-4">
+                    <a href="/images/Punk%20Rock.png" data-lightbox="pic-puns-scroll" data-title="Punk Rock">
+                      <img src="/images/Punk%20Rock.png" class="img-responsive">
+                    </a>
+                </figure>
+
+                <figure class="hover-zoom col-sm-4">
+                    <a href="/images/Escape%20Artist.jpg" data-lightbox="pic-puns-scroll" data-title="Escape Artist">
+                      <img src="/images/Escape%20Artist.jpg" class="img-responsive">
+                    </a>
+                </figure>
+
+                <figure class="hover-zoom col-sm-4">
+                    <a href="/images/Giraph.jpg" data-lightbox="pic-puns-scroll" data-title="Giraph">
+                      <img src="/images/Giraph.jpg" class="img-responsive">
+                    </a>
+                </figure>
+          </div>
+        </div>
       </div>
     </div>
   </div>
-
-<!--
-  <div class="row pun_imgs">
-    <figure class="pun_img col-sm-4">
-        <a href="#">
-          <img src="/Punk%20Rock.png" class="img-responsive">
-        </a>
-    </figure>
-
-    <figure class="pun_img col-sm-4">
-        <a href="#">
-          <img src="/Escape%20Artist.jpg" class="img-responsive">
-        </a>
-    </figure>
-
-    <figure class="pun_img col-sm-4">
-        <a href="#">
-          <img src="/Punk%20Rock.png" class="img-responsive">
-        </a>
-    </figure>
-
-    <figure class="pun_img col-sm-4">
-        <a href="#">
-          <img src="/Escape%20Artist.jpg" class="img-responsive">
-        </a>
-    </figure>
-
-    <figure class="pun_img col-sm-4">
-        <a href="#">
-          <img src="/Punk%20Rock.png" class="img-responsive">
-        </a>
-    </figure>
-
-    <figure class="pun_img col-sm-4">
-        <a href="#">
-          <img src="/Escape%20Artist.jpg" class="img-responsive">
-        </a>
-    </figure>
-  </div>
--->
   <div id="unfinished_modal"></div>
 </body>
 </html>
