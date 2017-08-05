@@ -58,7 +58,7 @@
 58."I bombed my vectors test, but my mark still went up... by -5%." (MATH) 11/4/2015
 59."You guys can't be in my team, you're Allies." (OTHER) 11/4/2015
 60."I couldn't get the Right answer, so I Left it." (OTHER) 11/4/2015
-61."What's a percussionist's favourite mathematical function? LogaRythms" (MUSIC/MATH) 11/5/2015
+61."What's a percussionist's favourite mathematical function? LogaRythms" (MUSIC) 11/5/2015
 62."I don't like guitar players, they are always so Picky." (MUSIC) 11/5/2015
 63."The Pythagorean identity is ONEderful." (MATH) 11/5/2015
 64."You're playing too loud!" "No, I'm playing Piano." (MUSIC)11/6/2015
@@ -342,7 +342,7 @@
 342."We learned about the element iron today, it was ferroly simple." (CHEMISTRY) 5/28/2016
 343."Butanal is a pain is the ass to name." (CHEMISTRY) 5/28/2016
 344."We need a river of unlimited beer...R-OH R-OH R-OH your boat, gently down the stream." (CHEMISTRY) 5/28/2016
-345."Unit for measuring the loudness of an electric guitar? Amps." (PHYSICS/MUSIC) 5/30/2016
+345."Unit for measuring the loudness of an electric guitar? Amps." (PHYSICS) 5/30/2016
 346."I'm bringing beer to school, it's a quite a whisky move." (OTHER) 5/31/2016
 347."You are using if statements?" "Yea, what else?" (COMP-SCI) 6/1/2016
 348."Alkane like a wrecking ball." (CHEMISTRY) 6/1/2016
@@ -358,7 +358,7 @@
 358."How do you ask a statistician out?" "You datum." (MATH) 6/24/2016
 359."Taste of Asia is a cruel place, there's public roasting everywhere." (OTHER) 6/25/2016
 360."I showed my crew how to make the invisible suit many times. I thought I made myself clear but they still don't see what I did." (OTHER) 6/25/2016
-361."Deez lines. Dot them!" (MATH/OTHER MEME) 6/2/2016
+361."Deez lines. Dot them!" (MATH) 6/2/2016
 362."What do you call an immigrant zombie?" "Flesh off the boat." (OTHER) 6/27/2016
 363."Please don't shoot, I pun in peace." (OTHER) 6/28/2016
 364."Why do athletes get cups?" "Because they are thirsty." (OTHER) 6/29/2016

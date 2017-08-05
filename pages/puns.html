@@ -9,6 +9,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://use.fontawesome.com/c0a8e7ab04.js"></script>
   <script src="/scripts/load_components.js"></script>
+  <script src="/scripts/puns_script.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 
@@ -21,48 +22,9 @@
       <h2 id="title"> Jackie's "Tons of Fun Puns";
         making people's lives miserable since: 7/8/2015
       </h2>
+      <p><em>This is a collection of some puns I made throughout the years.</em></p>
     </div>
   </div>
-
-  <script>
-    $.ajax({
-      url: '/resources/puns.json',
-      dataType: 'json',
-      type: 'get',
-      cache: true,
-      success: function (data) {
-        var puns_math = [];
-        var puns_science = [];
-        var puns_cs = [];
-        var puns_music = [];
-        var puns_other = [];
-
-        $(data).each(function (index, value) {
-          if (value.category === "MATH") {
-            puns_math.push('<p class="lead">' + value.content + '</p>');
-          } else if (value.category === "PHYSICS" ||
-                    value.category === "CHEMISTRY" ||
-                    value.category === "BIOLOGY") {
-            puns_science.push('<p class="lead">' + value.content + '</p>');
-          } else if (value.category === "COMP-SCI") {
-            puns_cs.push('<p class="lead">' + value.content + '</p>');
-          } else if (value.category === "MUSIC") {
-            puns_music.push('<p class="lead">' + value.content + '</p>');
-          } else {
-            puns_other.push('<p class="lead">' + value.content + '</p>');
-          }
-        });
-        $("#math").html(puns_math.join(""));
-        $("#science").html(puns_science.join(""));
-        $("#cs").html(puns_cs.join(""));
-        $("#music").html(puns_music.join(""));
-        $("#other").html(puns_other.join(""));
-      },
-      error: function(XMLHttpRequest, textStatus, errorThrown) {
-        console.error ("Failed to load puns :(");
-      }
-    });
-  </script>
 
   <div class="row">
     <div class="col-sm-10 col-sm-offset-1">
@@ -73,17 +35,15 @@
         <li role="presentation"><a href="#cs" aria-controls="cs" role="tab" data-toggle="tab">Computer Science</a></li>
         <li role="presentation"><a href="#music" aria-controls="music" role="tab" data-toggle="tab">Music</a></li>
         <li role="presentation"><a href="#other" aria-controls="other" role="tab" data-toggle="tab">Other</a></li>
+        <li role="presentation"><a class="inactive" href="#picPun" aria-controls="picPun" role="tab" data-toggle="tab">Picture Puns</a></li>
       </ul>
-
-      <div class="punList"></div>
-
       <!-- Tab Panes -->
       <div class="tab-content">
-        <div class="tab-pane fade in active" id="math"></div>
-        <div class="tab-pane fade" id="science"></div>
-        <div class="tab-pane fade" id="cs"></div>
-        <div class="tab-pane fade" id="music"></div>
-        <div class="tab-pane fade" id="other"></div>
+        <div class="top-margins tab-pane fade in active" id="math"><ol id="list_math"></ol></div>
+        <div class="top-margins tab-pane fade" id="science"><ol id="list_science"></ol></div>
+        <div class="top-margins tab-pane fade" id="cs"><ol id="list_cs"></ol></div>
+        <div class="top-margins tab-pane fade" id="music"><ol id="list_music"></ol></div>
+        <div class="top-margins tab-pane fade" id="other"><ol id="list_other"></ol></div>
       </div>
     </div>
   </div>

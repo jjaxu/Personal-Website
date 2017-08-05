@@ -39,8 +39,8 @@ p {
 
 a {color: white;}      /* unvisited link */
 a:visited {color: white;}  /* visited link */
-a:hover {color: yellow;}  /* mouse over link */
-a:active {color: blue;}  /* selected link */
+a:hover {color: green;}  /* mouse over link */
+a:active {color: yellow;}  /* selected link */
 
 .navbar-inverse .navbar-brand {
   color: white;
@@ -217,6 +217,10 @@ a > .fa:hover {
 
 .light-margins {
   margin-bottom: 16px;
+}
+
+.top-margins {
+  margin-top: 16px;
 }
 
 .tiny-margins {

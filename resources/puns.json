@@ -8,7 +8,7 @@
     "category": "PHYSICS"
   },
   {
-    "content": "I tried teaching my brother fractions today, he couldn't understand Half of what I was saying",
+    "content": "I tried teaching my brother fractions today, he couldn't understand Half of what I was saying.",
     "category": "MATH"
   },
   {
@@ -24,7 +24,7 @@
     "category": "MUSIC"
   },
   {
-    "content": "Teach me trig, sin[π]!",
+    "content": "Teach me trig, sin(π)!",
     "category": "MATH"
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "content": "What's a percussionist's favourite mathematical function? LogaRythms",
-    "category": "MUSIC/MATH"
+    "category": "MUSIC"
   },
   {
     "content": "I don't like guitar players, they are always so Picky.",
@@ -381,7 +381,7 @@
   },
   {
     "content": "How loud should I play this note? Forte decibels.",
-    "category": "PHYSICS/MUSIC"
+    "category": "PHYSICS"
   },
   {
     "content": "Why do photons never notice me? They got no Time.",
@@ -504,7 +504,7 @@
     "category": "OTHER"
   },
   {
-    "content": "What is the similarity between women and Pi? They both go on and on.",
+    "content": "What is the similarity between women and π? They both go on and on.",
     "category": "OTHER"
   },
   {
@@ -613,7 +613,7 @@
   },
   {
     "content": "Wanna help me make a nuke? I can't do it without U.",
-    "category": "PHYSICS/CHEMISTRY"
+    "category": "CHEMISTRY"
   },
   {
     "content": "Did you how I managed to escape Iraq? Iran.",
@@ -648,7 +648,7 @@
     "category": "OTHER"
   },
   {
-    "content": "All my math tests are messy because there's Pi everywhere.",
+    "content": "All my math tests are messy because there's π everywhere.",
     "category": "MATH"
   },
   {
@@ -733,7 +733,7 @@
   },
   {
     "content": "Units of acceleration for an osilating object? - Meters per secant squared.",
-    "category": "MATH/PHYSICS"
+    "category": "PHYSICS"
   },
   {
     "content": "Dimonds are rare, so if you find any, seldom to me.",
@@ -757,7 +757,7 @@
   },
   {
     "content": "Unintended or Punintended? That is the question.",
-    "category": "OTHER/SHAKESPEARE"
+    "category": "OTHER"
   },
   {
     "content": "What if Einstein's theory of Relativity was wrong? It's ok, it's the thought that counts.",
@@ -785,7 +785,7 @@
   },
   {
     "content": "Unit for measuring the loudness of an electric guitar? Amps.",
-    "category": "PHYSICS/MUSIC"
+    "category": "PHYSICS"
   },
   {
     "content": "I'm bringing beer to school, it's a quite a whisky move.",
