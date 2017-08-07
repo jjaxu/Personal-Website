@@ -10,7 +10,6 @@ html {
   overflow-y: auto;
 }
 
-
 body {
   background: none;
   line-height: 1.5;
@@ -42,6 +41,7 @@ a:visited {color: white;}  /* visited link */
 a:hover {color: green;}  /* mouse over link */
 a:active {color: yellow;}  /* selected link */
 
+
 .navbar-inverse .navbar-brand {
   color: white;
 }
@@ -53,7 +53,6 @@ a:active {color: yellow;}  /* selected link */
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
   color: yellow;
 }
-
 
 .jumbotron {
   background: none;
@@ -68,7 +67,6 @@ a:active {color: yellow;}  /* selected link */
 .jumbotron .lead {
   font-size: 32px;
 }
-
 
 .first_slide, .second_slide, .third_slide {
   display: block;
