@@ -1,9 +1,10 @@
-var more_dropdown = ["gallery", "quotes", "time_capsule"];
-var page;
 $(document).ready(function(){
     $('.inactive').on('click', function() {
         $('#myModal').modal('show');
     });
+    
+    var more_dropdown = ["gallery", "quotes", "time_capsule"];
+    var page;
 
     if (window.location.pathname === "/") {
       page = "home";
