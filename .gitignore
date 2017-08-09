@@ -1,3 +1,4 @@
 node_modules/*
 !node_modules/lightbox2/
 debug.log
+scripts/load_components.js
