@@ -309,3 +309,7 @@ div.desc {
   flex-wrap: wrap;
   width: 100%;
 }
+
+.thumbnail {
+  display: inline;
+}
