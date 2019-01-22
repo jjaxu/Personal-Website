@@ -3,7 +3,7 @@ $(document).ready(function(){
         $('#myModal').modal('show');
     });
     
-    var more_dropdown = ["gallery", "quotes", "time_capsule"];
+    var more_dropdown = [/*"gallery", */"quotes", "time_capsule"];
     var page;
 
     if (window.location.pathname === "/") {
